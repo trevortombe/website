@@ -23,18 +23,6 @@ Here’s a collection of my random graphics.</description>
     </item>
     
     <item>
-      <title>testrmd</title>
-      <link>/post/testrmd/</link>
-      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/testrmd/</guid>
-      <description>Test of Simple CANSIM DataR MarkdownIncluding PlotsHere’s some important information…
- Test of Simple CANSIM DataThis displays the job vacancy data
-R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.</description>
-    </item>
-    
-    <item>
       <title>Testing New Post</title>
       <link>/post/testing/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0700</pubDate>
