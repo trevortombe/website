@@ -30,5 +30,11 @@ summary = "Create a beautifully simple website or blog in under 10 minutes."
 **Academic** makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
 
 ```{r}
-rmarkdown::render('test.Rmd')
+hist(rnorm(100))
 ```
+
+> This is a blockquote.
+
+{{% alert note %}}
+Here's a tip or note...
+{{% /alert %}}
