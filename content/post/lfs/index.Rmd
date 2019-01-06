@@ -1,7 +1,7 @@
 ---
-title: "index"
+title: "Labour Force Survey"
 author: "Trevor Tombe"
-date: "January 6, 2019"
+date: 2019-01-06
 output: html_document
 ---
 
@@ -9,4 +9,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-[LFS](www.trevortombe.com/post/lfs/LFS.html)
+Each month Statistics Canada releases their labour force survey data.
+
+Here's a [collection](LFS.html) of my random graphics.
+
+
