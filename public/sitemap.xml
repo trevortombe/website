@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/post/testing/</loc>
+      <lastmod>2019-01-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00-06:00</lastmod>
     </url>
@@ -126,17 +134,8 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00-07:00</lastmod>
+      <lastmod>2019-01-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -222,7 +221,16 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2018-01-13T00:00:00-07:00</lastmod>
+      <lastmod>2019-01-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2017-10-15T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
