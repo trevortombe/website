@@ -38,3 +38,7 @@ hist(rnorm(100))
 {{% alert note %}}
 Here's a tip or note...
 {{% /alert %}}
+{{% alert warning %}}
+warning...
+{{% /alert %}}
+

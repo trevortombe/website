@@ -19,6 +19,11 @@
       <description>
 
 
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;p&gt;This is a work in progress.&lt;/p&gt;
+
+&lt;/div&gt;
+
 &lt;p&gt;Each month Statistics Canada releases their labour force survey data.&lt;/p&gt;
 &lt;p&gt;Here’s a &lt;a href=&#34;LFS.html&#34;&gt;collection&lt;/a&gt; of my random graphics.&lt;/p&gt;
 </description>
@@ -39,11 +44,16 @@
 &lt;p&gt;This is a blockquote.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
+&lt;p&gt;&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;p&gt;Here&amp;rsquo;s a tip or note&amp;hellip;&lt;/p&gt;
 
 &lt;/div&gt;
 
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;p&gt;warning&amp;hellip;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/p&gt;
 </description>
     </item>
     

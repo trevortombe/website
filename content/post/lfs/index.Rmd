@@ -9,6 +9,10 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+{{% alert warning %}}
+This is a work in progress.
+{{% /alert %}}
+
 Each month Statistics Canada releases their labour force survey data.
 
 Here's a [collection](LFS.html) of my random graphics.
