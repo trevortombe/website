@@ -18,25 +18,34 @@
       <guid>/post/testrmd/</guid>
       <description>
 
-
-&lt;h2&gt;Table of Contents&lt;/h2&gt;
-
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#test-of-simple-cansim-data&#34;&gt;Test of Simple CANSIM Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#r-markdown&#34;&gt;R Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#including-plots&#34;&gt;Including Plots&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 
 &lt;div class=&#34;alert alert-warning&#34;&gt;
   &lt;p&gt;Here’s some important information…&lt;/p&gt;
 
 &lt;/div&gt;
 
+&lt;div id=&#34;test-of-simple-cansim-data&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Test of Simple CANSIM Data&lt;/h1&gt;
+&lt;p&gt;This displays the job vacancy data&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/testRMD/index_files/figure-html/vacancy-1.png&#34; width=&#34;768&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;When you click the &lt;strong&gt;Knit&lt;/strong&gt; button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/testRMD/index_files/figure-html/cars-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/testRMD/index_files/figure-html/cars-1.png&#34; width=&#34;768&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Including Plots&lt;/h1&gt;
 &lt;p&gt;You can also embed plots, for example:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/testRMD/index_files/figure-html/pressure-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/testRMD/index_files/figure-html/pressure-1.png&#34; width=&#34;768&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Note that the &lt;code&gt;echo = FALSE&lt;/code&gt; parameter was added to the code chunk to prevent printing of the R code that generated the plot.&lt;/p&gt;
 &lt;/div&gt;
 </description>
@@ -162,6 +171,14 @@
       
       <guid>/post/getting-started/</guid>
       <description>
+
+&lt;h2 id=&#34;test-1&#34;&gt;Test 1&lt;/h2&gt;
+
+&lt;p&gt;Blaa&lt;/p&gt;
+
+&lt;h2 id=&#34;test-2&#34;&gt;Test 2&lt;/h2&gt;
+
+&lt;p&gt;blaa blaa&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.&lt;/p&gt;
 

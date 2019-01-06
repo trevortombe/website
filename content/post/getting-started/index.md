@@ -74,7 +74,17 @@ caption = "Coffee theme with Playfair font"
 album = "gallery"
 image = "theme-cupcake.png"
 caption = "Cupcake"
+
+toc = true
+
 +++
+
+
+## Test 1
+Blaa
+
+## Test 2
+blaa blaa
 
 **Academic** makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
 
