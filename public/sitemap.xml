@@ -52,6 +52,14 @@
     
     <url>
     
+      <loc>/privacy/</loc>
+      <lastmod>2018-06-28T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/talk/example/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
@@ -116,8 +124,8 @@
     
     <url>
     
-      <loc>/publication/person-re-id/</loc>
-      <lastmod>2015-09-01T00:00:00-06:00</lastmod>
+      <loc>/publication/enviro-policy/</loc>
+      <lastmod>2015-07-01T00:00:00-06:00</lastmod>
     </url>
     
   
