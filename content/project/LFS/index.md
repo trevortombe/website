@@ -50,6 +50,6 @@ This is a work in progress.
 
 Each month Statistics Canada releases their labour force survey data.
 
-Here's a [collection](LFS.html) of my random graphics.
+Here's a [collection](https://www.trevortombe.com/post/lfs/lfs/) of my random graphics.
 
 
