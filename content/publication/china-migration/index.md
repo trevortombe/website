@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "American Economic Review"
-publication_short = "In *American Economic Review*"
+publication_short = "*American Economic Review*"
 
 # Abstract and optional shortened version.
 abstract = "We study how goods- and labor-market frictions affect aggregate labor productivity in China. Combining unique data with a general equilibrium model of internal and international trade, and migration across regions and sectors, we quantify the magnitude and consequences of trade and migration costs. The costs were high in 2000, but declined afterward. The decline accounts for 36% of the aggregate labor productivity growth between 2000 and 2005. Reductions in internal trade and migration costs are more important than reductions in external trade costs. Despite the decline, migration costs are still high and potential gains from further reform are large."

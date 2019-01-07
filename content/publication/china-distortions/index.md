@@ -1,10 +1,10 @@
 +++
-title = "Final and Unalterable - But Up for Negociation: Federal-Provincial Transfers in Canada"
-date = 2019-01-01
+title = "Factor Market Distortions Across Time, Space, and Sectors in China"
+date = 2015-01-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Trevor Tombe"]
+authors = ["Loren Brandt","Trevor Tombe","Xiadong Zhu"]
 
 # Publication type.
 # Legend:
@@ -18,15 +18,15 @@ authors = ["Trevor Tombe"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Canadian Tax Journal"
-publication_short = "*Canadian Tax Journal*"
+publication = "Review of Economic Dynamics"
+publication_short = "*Review of Economic Dynamics*"
 
 # Abstract and optional shortened version.
-abstract = "Federal transfers are a central but ever-changing feature of Canada's federation. Despite early hopes that transfer arrangements were 'a final and unalterable settlement' of provincial demands, complex economic and political pressures forced successive governments to negotiate. To explore this history and Canada's various transfer programs, I compile uniquely detailed data from Confederation to today. Explicit transfers to provincial governments are large, but more equally distributed today than throughout most of Canada's history. I also propose a uniform methodology to quantify and analyze both explicit and implicit fiscal transfers. Overall, federal tax and spending activities redistribute just under 2 per cent of Canada's GDP across provinces; but this too is less than any point in the past six decades. This data, analysis and brief historical review reveal why today's transfer programs are designed as they are, what pressures they must withstand, and what future reforms might consider."
+abstract = "In this paper, we measure TFP losses in China's non-agricultural economy associated with labour and capital misallocation across provinces and sectors between 1985-2007. We also decompose the overall loss into factor market distortions within provinces (between state and non-state sectors) and distortions between provinces (within sectors). Over the entire period, misallocation lowers aggregate non-agricultural TFP by an average of twenty percent. However, after initially declining, these losses increased appreciably beginning in the mid-1990s. This reversal can be attributed almost exclusively to increasing misallocation of capital between state and non-state sectors within provinces, while losses from between province misallocation remained fairly constant. We argue that the recent increase in capital market distortions is related to government policies that encourage investments in the state sector at the expense of investments in the more productive non-state sector."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://ideas.repec.org/p/clg/wpaper/2018-13.html"
+url_pdf = "https://ideas.repec.org/a/red/issued/11-95.html"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

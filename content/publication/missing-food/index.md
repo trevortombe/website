@@ -1,6 +1,6 @@
 +++
-title = "Final and Unalterable - But Up for Negociation: Federal-Provincial Transfers in Canada"
-date = 2019-01-01
+title = "The Missing Food Problem: Trade, Agriculture, and International Productivity Differences"
+date = 2015-07-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,15 +18,15 @@ authors = ["Trevor Tombe"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Canadian Tax Journal"
-publication_short = "*Canadian Tax Journal*"
+publication = "American Economic Journal: Macroeconomics"
+publication_short = "*American Economic Journal: Macroeconomics*"
 
 # Abstract and optional shortened version.
-abstract = "Federal transfers are a central but ever-changing feature of Canada's federation. Despite early hopes that transfer arrangements were 'a final and unalterable settlement' of provincial demands, complex economic and political pressures forced successive governments to negotiate. To explore this history and Canada's various transfer programs, I compile uniquely detailed data from Confederation to today. Explicit transfers to provincial governments are large, but more equally distributed today than throughout most of Canada's history. I also propose a uniform methodology to quantify and analyze both explicit and implicit fiscal transfers. Overall, federal tax and spending activities redistribute just under 2 per cent of Canada's GDP across provinces; but this too is less than any point in the past six decades. This data, analysis and brief historical review reveal why today's transfer programs are designed as they are, what pressures they must withstand, and what future reforms might consider."
+abstract = "Agriculture in poor countries has low productivity, high employment, and negligible trade flows relative to other sectors. These facts motivate a multisector, open-economy view of international productivity differences. With a quantitative multicountry model featuring nonhomothetic preferences, multiple interrelated sectors, distorted labor markets, and costly trade, I find: trade amplifies the negative effect of labor market distortions; trade costs-large for poor countries, especially in agriculture-significantly contribute to international productivity differences; and explicitly modeling agriculture reveals additional channels through which poor countries may gain from trade."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://ideas.repec.org/p/clg/wpaper/2018-13.html"
+url_pdf = "https://ideas.repec.org/a/aea/aejmac/v7y2015i3p226-58.html"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

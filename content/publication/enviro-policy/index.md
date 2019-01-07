@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Journal of Environmental Economics and Management"
-publication_short = "In *Journal of Environmental Economics and Management*"
+publication_short = "*Journal of Environmental Economics and Management*"
 
 # Abstract and optional shortened version.
 abstract = "Firm-level idiosyncratic policy distortions misallocate resources between firms, lowering aggregate productivity. Many environmental policies create such distortions; in particular, output-based intensity standards (which limit firms energy use or emissions per unit of output) are easier for high-productivity firms to achieve. We investigate the productivity effect of intensity standards using a tractable general-equilibrium model featuring multiple sectors and firm-level heterogeneity. Qualitatively, we demonstrate that intensity standards are always inferior to uniform taxes, as they misallocate both dirty and clean inputs across firms and sectors, which lowers productivity. Quantitatively, we calibrate the model to US data and show that these productivity losses can be large"

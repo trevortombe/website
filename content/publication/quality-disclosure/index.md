@@ -1,10 +1,10 @@
 +++
-title = "Final and Unalterable - But Up for Negociation: Federal-Provincial Transfers in Canada"
-date = 2019-01-01
+title = "Quality Disclosure Programs and Internal Organizational Practices: Evidence from Airline Flight Delays"
+date = 2015-05-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Trevor Tombe"]
+authors = ["Trevor Tombe","Silke Forbes","Mara Lederman"]
 
 # Publication type.
 # Legend:
@@ -18,15 +18,15 @@ authors = ["Trevor Tombe"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Canadian Tax Journal"
-publication_short = "*Canadian Tax Journal*"
+publication = "American Economic Journal: Microeconomics"
+publication_short = "*American Economic Journal: Microeconomics*"
 
 # Abstract and optional shortened version.
-abstract = "Federal transfers are a central but ever-changing feature of Canada's federation. Despite early hopes that transfer arrangements were 'a final and unalterable settlement' of provincial demands, complex economic and political pressures forced successive governments to negotiate. To explore this history and Canada's various transfer programs, I compile uniquely detailed data from Confederation to today. Explicit transfers to provincial governments are large, but more equally distributed today than throughout most of Canada's history. I also propose a uniform methodology to quantify and analyze both explicit and implicit fiscal transfers. Overall, federal tax and spending activities redistribute just under 2 per cent of Canada's GDP across provinces; but this too is less than any point in the past six decades. This data, analysis and brief historical review reveal why today's transfer programs are designed as they are, what pressures they must withstand, and what future reforms might consider."
+abstract = "Disclosure programs exist in many industries in which consumers are poorly informed about product quality. We study a disclosure program for airline on-time performance, which ranks airlines based on the fraction of their flights that arrive less than 15 minutes late. The program creates incentives for airlines to focus their efforts on flights close to this threshold. We find that firms in this industry are heterogeneous in how they respond to these incentives. Moreover, this heterogeneity correlates with internal firm characteristics. Our findings highlight the importance of interactions between incentives created by a disclosure program and firms' internal organizational practices."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://ideas.repec.org/p/clg/wpaper/2018-13.html"
+url_pdf = "https://ideas.repec.org/a/aea/aejmic/v7y2015i2p1-26.html"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

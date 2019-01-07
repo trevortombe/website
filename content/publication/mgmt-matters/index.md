@@ -1,10 +1,10 @@
 +++
-title = "Final and Unalterable - But Up for Negociation: Federal-Provincial Transfers in Canada"
-date = 2019-01-01
+title = "Management matters"
+date = 2012-01-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Trevor Tombe"]
+authors = ["Michelle Alexopoulos","Trevor Tombe"]
 
 # Publication type.
 # Legend:
@@ -18,15 +18,15 @@ authors = ["Trevor Tombe"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Canadian Tax Journal"
-publication_short = "*Canadian Tax Journal*"
+publication = "Journal of Monetary Economics"
+publication_short = "*Journal of Monetary Economics*"
 
 # Abstract and optional shortened version.
-abstract = "Federal transfers are a central but ever-changing feature of Canada's federation. Despite early hopes that transfer arrangements were 'a final and unalterable settlement' of provincial demands, complex economic and political pressures forced successive governments to negotiate. To explore this history and Canada's various transfer programs, I compile uniquely detailed data from Confederation to today. Explicit transfers to provincial governments are large, but more equally distributed today than throughout most of Canada's history. I also propose a uniform methodology to quantify and analyze both explicit and implicit fiscal transfers. Overall, federal tax and spending activities redistribute just under 2 per cent of Canada's GDP across provinces; but this too is less than any point in the past six decades. This data, analysis and brief historical review reveal why today's transfer programs are designed as they are, what pressures they must withstand, and what future reforms might consider."
+abstract = "To evaluate the effect of managerial innovations on the economy, a series of new indicators capturing these advances is constructed. Three findings emerge from the analysis. First, following a positive managerial shock, output and productivity significantly increase and hours modestly rise in the short run. Second, management innovations are generally as important as non-managerial ones in explaining movements in these variables at business cycle frequencies. Finally, product and process innovations help to promote the development of new managerial techniques."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://ideas.repec.org/p/clg/wpaper/2018-13.html"
+url_pdf = "https://ideas.repec.org/a/eee/moneco/v59y2012i3p269-285.html"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

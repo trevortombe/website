@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Canadian Journal of Economics"
-publication_short = "In *Canadian Journal of Economics*"
+publication_short = "*Canadian Journal of Economics*"
 
 # Abstract and optional shortened version.
 abstract = "Does trade within a country affect welfare and productivity? What are the magnitude and consequences of costs to such trade? To answer these questions, we exploit unique Canadian data to measure internal trade costs in a variety of waysthey are large and vary across sectors and provinces. To quantify their consequences for welfare and productivity, we use a recent multi-sector trade model featuring rich inputoutput relationships. We find interprovincial trade is an important contributor to Canada's GDP and welfare, though there are significant costs to such trade. Reducing interprovincial trade costs by 10% yields aggregate gains of 0.9%; eliminating our preferred estimates of costs, gains average between 3% and 7%equivalent to real GDP gains between $50 billion and $130 billion. Finally, as policy reforms are often sector specific, we liberalize sectors one at a time and find gains are largest in highly interconnected industries."
