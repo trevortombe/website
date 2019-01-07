@@ -19,7 +19,7 @@
       
       <guid>/post/lfs/</guid>
       <description>This is a work in progress.
- Each month Statistics Canada releases their labour force survey data.
+Each month Statistics Canada releases their labour force survey data.
 Here’s a collection of my random graphics.</description>
     </item>
     
@@ -32,8 +32,8 @@ Here’s a collection of my random graphics.</description>
       <description>Academic makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
 hist(rnorm(100))   This is a blockquote.
  Here&amp;rsquo;s a tip or note&amp;hellip;
- warning&amp;hellip;
- </description>
+warning&amp;hellip;
+</description>
     </item>
     
     <item>

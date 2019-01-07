@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Final and Unalterable - But Up for Negociation: Federal-Provincial Transfers in Canada</title>
+      <link>/publication/transfers/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/transfers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Testing New Post</title>
       <link>/post/testing/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0700</pubDate>
@@ -83,16 +92,6 @@
 &lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
 
 &lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 -0600</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
@@ -528,21 +527,20 @@ git submodule update --init --recursive
     </item>
     
     <item>
+      <title>Internal Trade, Productivity, and Interconnected Industries: A Quantitative Analysis</title>
+      <link>/publication/internal-trade/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/internal-trade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
       <link>/publication/person-re-id/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 -0600</pubDate>
       
       <guid>/publication/person-re-id/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0600</pubDate>
-      
-      <guid>/publication/clothing-search/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
