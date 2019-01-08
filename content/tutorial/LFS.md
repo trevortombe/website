@@ -1,5 +1,5 @@
 +++
-title = "Example Page"
+title = "Alberta Economic Data"
 
 date = 2018-09-09T00:00:00
 # lastmod = 2018-09-09T00:00:00
@@ -9,13 +9,13 @@ toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-linktitle = "Example Page"
+linktitle = "Labour Force Survey"
 [menu.tutorial]
-  parent = "Example Topic"
+  parent = "Alberta Economy"
   weight = 1
 +++
 
-In this tutorial, I'll share my top 10 tips for getting started with Academic:
+In this ... blaa blaa
 
 ## Tip 1
 

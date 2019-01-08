@@ -1,0 +1,36 @@
+---
+title: newmd
+author: ~
+date: '2019-01-08'
+slug: newmd
+categories: []
+tags: []
+image:
+  caption: ''
+  focal_point: ''
+---
+
+Here is some text. Lots of text. So much text.
+
+**Gee this is fun!**
+
+Let's add a table, just for kicks.
+
+| hours of sun | happiness |
+|---|---|
+| 0 | 1 |
+| 3 | 4 |
+| 5 | 7 |
+| 7 | 10 |
+
+
+```{r}
+mean(iris$Sepal.Length)
+```
+
+This summation expression $\sum_{i=1}^n X_i$ appears inline.
+
+This summation expression is in display form.
+
+$$\sum_{i=1}^n X_i$$
+

@@ -15,8 +15,8 @@ weight = 60
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = "boards"
+image = "boards.jpg"
+caption = ""
 
 +++
 
@@ -25,3 +25,5 @@ Winter 2019 Semester:
 - ECON 359: Intermediate Macroeconomics (Undergrad)
 - ECON 621: Graduate International trade (MA/PhD)
 - PPOL 615: Public Finance (MPP)
+
+A full list of courses is available [here](https://econ.ucalgary.ca/courses)

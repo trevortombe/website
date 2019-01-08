@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>Example Page</title>
-      <link>/tutorial/example/</link>
+      <title>Alberta Economic Data</title>
+      <link>/tutorial/lfs/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0600</pubDate>
       
-      <guid>/tutorial/example/</guid>
-      <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
+      <guid>/tutorial/lfs/</guid>
+      <description>In this &amp;hellip; blaa blaa
 Tip 1 &amp;hellip;
 Tip 2 &amp;hellip;</description>
     </item>

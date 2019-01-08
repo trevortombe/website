@@ -13,6 +13,20 @@
     
     
     <item>
+      <title>newmd</title>
+      <link>/post/newmd/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/newmd/</guid>
+      <description>Here is some text. Lots of text. So much text.
+Gee this is fun!
+Let’s add a table, just for kicks.
+hours of sunhappiness013457710mean(iris$Sepal.Length)## [1] 5.843333This summation expression \(\sum_{i=1}^n X_i\) appears inline.
+This summation expression is in display form.
+\[\sum_{i=1}^n X_i\]</description>
+    </item>
+    
+    <item>
       <title>Labour Force Survey</title>
       <link>/post/lfs/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
@@ -21,19 +35,6 @@
       <description>This is a work in progress.
 Each month Statistics Canada releases their labour force survey data.
 Here’s a collection of my random graphics.</description>
-    </item>
-    
-    <item>
-      <title>Academic: the website designer for Hugo</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
-      
-      <guid>/post/getting-started/</guid>
-      <description>Test 1 Blaa
-Test 2 blaa blaa
-Academic makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
-Follow our easy step by step guide to learn how to build your own free website with Academic. Check out the personal demo or the business demo of what you&amp;rsquo;ll get in less than 10 minutes.
- View the documentation Ask a question Request a feature or report a bug Updating?</description>
     </item>
     
   </channel>
