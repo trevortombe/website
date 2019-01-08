@@ -41,6 +41,15 @@ A copy of my CV is available here.</description>
     </item>
     
     <item>
+      <title>Featured Publications</title>
+      <link>/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recent Publications</title>
       <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
@@ -50,11 +59,11 @@ A copy of my CV is available here.</description>
     </item>
     
     <item>
-      <title>Featured Publications</title>
-      <link>/home/publications_selected/</link>
+      <title>Policy Publications</title>
+      <link>/home/policy/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
-      <guid>/home/publications_selected/</guid>
+      <guid>/home/policy/</guid>
       <description></description>
     </item>
     

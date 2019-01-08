@@ -28,7 +28,7 @@
     
     <url>
     
-      <loc>/post/testing/</loc>
+      <loc>/publication/china-migration/</loc>
       <lastmod>2019-01-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -36,8 +36,8 @@
     
     <url>
     
-      <loc>/publication/china-migration/</loc>
-      <lastmod>2019-01-01T00:00:00-07:00</lastmod>
+      <loc>/publication/fiscal-future/</loc>
+      <lastmod>2018-11-01T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -62,6 +62,14 @@
     
       <loc>/privacy/</loc>
       <lastmod>2018-06-28T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/ab-fiscal-future/</loc>
+      <lastmod>2017-10-27T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -94,14 +102,6 @@
     
       <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/external-project/</loc>
-      <lastmod>2016-04-27T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -173,8 +173,17 @@
     
     <url>
     
+      <loc>/publication_types/4/</loc>
+      <lastmod>2018-11-01T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/academic/</loc>
-      <lastmod>2019-01-01T00:00:00-07:00</lastmod>
+      <lastmod>2018-01-13T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -192,15 +201,6 @@
     <url>
     
       <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -242,7 +242,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2019-01-01T00:00:00-07:00</lastmod>
+      <lastmod>2018-01-13T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     

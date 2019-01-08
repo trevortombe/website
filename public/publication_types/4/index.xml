@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 on Trevor Tombe</title>
+    <link>/publication_types/4/</link>
+    <description>Recent content in 4 on Trevor Tombe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alberta&#39;s Long-Term Fiscal Future</title>
+      <link>/publication/fiscal-future/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/fiscal-future/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
