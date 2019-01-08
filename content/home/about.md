@@ -35,6 +35,6 @@ weight = 1
 
 # Biography
 
-To be completed.
+Welcome to my website. I'm Associate Professor of Economics at the University of Calgary and a Research Fellow at The School of Public Policy. Prior to joining the University of Calgary in 2012, I was an Assistant Professor of Economics at Wilfrid Laurier University. My academic research focuses on a broad range of topics, but focuses mainly on the intersection of international trade and macroeconomics. In addition to this work, I active contribute to public policy research and outreach in Alberta and Canada.
 
 A copy of my CV is available [here](files/CV.pdf).

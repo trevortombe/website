@@ -13,6 +13,11 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 60
 
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = "boards"
+
 +++
 
 Winter 2019 Semester:
