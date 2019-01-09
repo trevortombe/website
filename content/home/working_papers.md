@@ -6,7 +6,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Working Papers"
-subtitle = "Work in Progress"
+subtitle = "Under Review"
 
 # Order that this section will appear in.
 weight = 1
