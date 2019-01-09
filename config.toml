@@ -275,9 +275,9 @@ enableGitInfo = false
     link = "https://scholar.google.ca/citations?user=dVcl23IAAAAJ"
 
   [[params.social]]
-    icon = "github"
+    icon = "ideas-repec"
     icon_pack = "fab"
-    link = "https://github.com/trevortombe"
+    link = "https://ideas.repec.org/f/pto222.html"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
