@@ -7,7 +7,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Featured Publications"
-subtitle = "A Selection of my Favorite Recent Papers"
+subtitle = ""
 
 # Order that this section will appear in.
 weight = 2
