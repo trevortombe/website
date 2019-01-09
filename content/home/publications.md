@@ -12,7 +12,7 @@ subtitle = "Academic Journals"
 weight = 3
 
 # Number of publications to list.
-count = 10
+count = 8
 
 # List format.
 #   0 = Simple

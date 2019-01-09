@@ -51,7 +51,7 @@ tags = []
 # Links (optional).
 url_pdf = "https://ideas.repec.org/a/red/issued/11-95.html"
 url_preprint = ""
-url_code = ""
+url_code = "https://ideas.repec.org/c/red/ccodes/11-95.html"
 url_dataset = ""
 url_project = ""
 url_slides = ""
