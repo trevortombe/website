@@ -300,19 +300,24 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 3
+  name = "Working Papers"
+  url = "#working_papers"
+  weight = 2
 
 [[menu.main]]
   name = "Featured"
   url = "#publications_selected"
-  weight = 2
+  weight = 3
 
-#[[menu.main]]
-#  name = "Policy Papers"
-#  url = "#policy"
-#  weight = 4
+[[menu.main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 4
+
+[[menu.main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 5
 
 #[[menu.main]]
 #  name = "Posts"
