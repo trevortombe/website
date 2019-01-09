@@ -62,6 +62,8 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Ungated", url = "https://ideas.repec.org/p/clg/wpaper/2015-05.html"},
+{name = "Explore UCalgary", url = "https://explore.ucalgary.ca/canadians-face-100-billion-trade-question"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
