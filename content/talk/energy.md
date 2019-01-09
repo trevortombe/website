@@ -43,7 +43,7 @@ tags = []
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "yow_2018_12_07"
+slides = "yow_2018_12_07.pdf"
 
 # Links (optional).
 url_pdf = ""
