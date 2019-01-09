@@ -5,11 +5,11 @@ widget = "publications"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Policy Publications"
-subtitle = "Peer Reviewed"
+title = "Working Papers"
+subtitle = "Work in Progress"
 
 # Order that this section will appear in.
-weight = 4
+weight = 1
 
 # Number of publications to list.
 count = 10
@@ -31,7 +31,7 @@ list_format = 0
 #  4: Technical report
 #  5: Book
 #  6: Book chapter
-publication_type = "4"
+publication_type = "3"
 
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
