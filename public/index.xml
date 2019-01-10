@@ -88,8 +88,8 @@
 
 &lt;/div&gt;
 
-&lt;p&gt;Each month Statistics Canada releases their labour force survey data.&lt;/p&gt;
-&lt;p&gt;Here’s a &lt;a href=&#34;LFS.html&#34;&gt;collection&lt;/a&gt; of my random graphics.&lt;/p&gt;
+&lt;p&gt;Each month Statistics Canada releases their &lt;a href=&#34;https://www.statcan.gc.ca/eng/survey/household/3701&#34;&gt;&lt;code&gt;Labour Force Survey&lt;/code&gt;&lt;/a&gt;. This is the main source of information on the latest labour market trends throughout Canada.&lt;/p&gt;
+&lt;p&gt;A selection of some of my graphical analysis, based on the latest data, is available &lt;a href=&#34;LFS.html&#34;&gt;&lt;code&gt;here&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

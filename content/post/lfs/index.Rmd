@@ -13,8 +13,8 @@ knitr::opts_chunk$set(echo = TRUE)
 This is a work in progress.
 {{% /alert %}}
 
-Each month Statistics Canada releases their labour force survey data.
+Each month Statistics Canada releases their [`Labour Force Survey`](https://www.statcan.gc.ca/eng/survey/household/3701). This is the main source of information on the latest labour market trends throughout Canada.
 
-Here's a [collection](LFS.html) of my random graphics.
+A selection of some of my graphical analysis, based on the latest data, is available [`here`](LFS.html).
 
 
