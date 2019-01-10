@@ -1,10 +1,13 @@
 +++
-title = "Final and Unalterable - But Up for Negociation: Federal-Provincial Transfers in Canada"
+title = "Final and Unalterable - But Up for Negotiation: Federal-Provincial Transfers in Canada"
 date = 2019-01-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Trevor Tombe"]
+
+slug = "Final and Unalterable - But Up for Negotiation"
+baseurl = "https://www.trevortombe.com"
 
 # Publication type.
 # Legend:
