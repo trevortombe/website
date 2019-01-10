@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Trevor Tombe</title>
-    <link>/post/</link>
+    <link>https://www.trevortombe.com/post/</link>
     <description>Recent content in Posts on Trevor Tombe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.trevortombe.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>newmd</title>
-      <link>/post/testing/</link>
+      <link>https://www.trevortombe.com/post/testing/</link>
       <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/testing/</guid>
+      <guid>https://www.trevortombe.com/post/testing/</guid>
       <description>Here is some text. Lots of text. So much text.
 Gee this is fun!
 Let’s add a table, just for kicks.
@@ -28,10 +28,10 @@ This summation expression is in display form.
     
     <item>
       <title>Labour Force Survey</title>
-      <link>/post/lfs/</link>
+      <link>https://www.trevortombe.com/post/lfs/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/lfs/</guid>
+      <guid>https://www.trevortombe.com/post/lfs/</guid>
       <description>This is a work in progress.
 Each month Statistics Canada releases their Labour Force Survey. This is the main source of information on the latest labour market trends throughout Canada.
 A selection of some of my graphical analysis, based on the latest data, is available here.</description>

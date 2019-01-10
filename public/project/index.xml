@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Trevor Tombe</title>
-    <link>/project/</link>
+    <link>https://www.trevortombe.com/project/</link>
     <description>Recent content in Projects on Trevor Tombe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.trevortombe.com/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Labour Force Survey</title>
-      <link>/project/lfs/</link>
+      <link>https://www.trevortombe.com/project/lfs/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0700</pubDate>
       
-      <guid>/project/lfs/</guid>
+      <guid>https://www.trevortombe.com/project/lfs/</guid>
       <description>This is a work in progress.
 Each month Statistics Canada releases their labour force survey data.
 Here&amp;rsquo;s a collection of my random graphics.</description>
@@ -25,10 +25,10 @@ Here&amp;rsquo;s a collection of my random graphics.</description>
     
     <item>
       <title>Alberta&#39;s Fiscal Future</title>
-      <link>/project/ab-fiscal-future/</link>
+      <link>https://www.trevortombe.com/project/ab-fiscal-future/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 -0600</pubDate>
       
-      <guid>/project/ab-fiscal-future/</guid>
+      <guid>https://www.trevortombe.com/project/ab-fiscal-future/</guid>
       <description></description>
     </item>
     

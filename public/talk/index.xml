@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Trevor Tombe</title>
-    <link>/talk/</link>
+    <link>https://www.trevortombe.com/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Trevor Tombe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.trevortombe.com/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Thompson Rivers University</title>
-      <link>/talk/tru_feb14/</link>
+      <link>https://www.trevortombe.com/talk/tru_feb14/</link>
       <pubDate>Wed, 09 Jan 2019 09:00:00 -0700</pubDate>
       
-      <guid>/talk/tru_feb14/</guid>
+      <guid>https://www.trevortombe.com/talk/tru_feb14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Calgary Chamber of Commerce Event: The economic landscape and the 2019 Alberta election</title>
-      <link>/talk/chamber/</link>
+      <link>https://www.trevortombe.com/talk/chamber/</link>
       <pubDate>Tue, 08 Jan 2019 00:00:00 -0700</pubDate>
       
-      <guid>/talk/chamber/</guid>
+      <guid>https://www.trevortombe.com/talk/chamber/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring The Impacts of Energy Infrastructure</title>
-      <link>/talk/energy/</link>
+      <link>https://www.trevortombe.com/talk/energy/</link>
       <pubDate>Fri, 07 Dec 2018 07:00:00 -0700</pubDate>
       
-      <guid>/talk/energy/</guid>
+      <guid>https://www.trevortombe.com/talk/energy/</guid>
       <description>Energy infrastructure, like pipelines and transmission lines, underpin the quality of life that Canadians enjoy. The infrastructure contributes to GDP, enables trade and is a major component of federal, provincial and municipal tax revenue. But, these gains must be weighed against potentially social and environmental consequences. Regulatory approval for such projects is often conditional on demonstration of positive contributions to the public interest - but unfortunately, the best methods to evaluate these effects are unclear.</description>
     </item>
     
