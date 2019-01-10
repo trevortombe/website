@@ -69,10 +69,10 @@ enableGitInfo = false
   address = "2500 University Drive NW, Calgary, Alberta T2N 1N4"
   office_hours = """
   University of Calgary student?
-  Email to book an appointment.
+  [Email](mailto:ttombe@ucalgary.ca) to book an appointment.
   """
   phone = "403-220-8068"
-  skype = "trevortombe"
+  skype = "trevor.tombe"
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
   appointment_url = ""
