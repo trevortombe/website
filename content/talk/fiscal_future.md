@@ -1,6 +1,6 @@
 +++
 title = "The Challenges and Opportunities for Fiscal Reform in Alberta"
-date = 2019-02-07T09:00:00  # Schedule page publish date.
+date = 2019-01-13T09:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
