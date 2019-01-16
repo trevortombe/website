@@ -65,6 +65,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Journal Website", url = "http://www.ctf.ca/CTFWEB/EN/Publications/CTJ_Contents/2018CTJ4.aspx"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
