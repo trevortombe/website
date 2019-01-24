@@ -15,6 +15,6 @@ This is a work in progress.
 
 Each month Statistics Canada releases their [`Labour Force Survey`](https://www.statcan.gc.ca/eng/survey/household/3701). This is the main source of information on the latest labour market trends throughout Canada.
 
-A selection of some of my graphical analysis, based on the latest data, is available [`here`](LFS.html).
+A selection of some of my graphical analysis, based on the latest data, is available [`here`](../lfs/LFS.html).
 
-Selected statistics for Calgary and Edmonton are [`here`](../lfs_cma/LFS_cma.html)
+Selected statistics for Calgary and Edmonton are [`here`](LFS_cma.html)
