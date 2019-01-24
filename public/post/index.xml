@@ -39,7 +39,7 @@ Selected statistics for Calgary and Edmonton are here</description>
     </item>
     
     <item>
-      <title>Labour Force Survey</title>
+      <title>Labour Force Survey, CMA Detail</title>
       <link>https://www.trevortombe.com/post/lfs_cma/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -48,6 +48,16 @@ Selected statistics for Calgary and Edmonton are here</description>
 Each month Statistics Canada releases their Labour Force Survey. This is the main source of information on the latest labour market trends throughout Canada.
 A selection of some of my graphical analysis, based on the latest data, is available here.
 Selected statistics for Calgary and Edmonton are here</description>
+    </item>
+    
+    <item>
+      <title>Survey of Employment, Payroll and Hours</title>
+      <link>https://www.trevortombe.com/post/seph/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.trevortombe.com/post/seph/</guid>
+      <description>This is a work in progress.
+The latest SEPH graphs are here</description>
     </item>
     
   </channel>

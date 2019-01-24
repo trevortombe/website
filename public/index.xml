@@ -104,7 +104,7 @@
     </item>
     
     <item>
-      <title>Labour Force Survey</title>
+      <title>Labour Force Survey, CMA Detail</title>
       <link>https://www.trevortombe.com/post/lfs_cma/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -120,6 +120,24 @@
 &lt;p&gt;Each month Statistics Canada releases their &lt;a href=&#34;https://www.statcan.gc.ca/eng/survey/household/3701&#34;&gt;&lt;code&gt;Labour Force Survey&lt;/code&gt;&lt;/a&gt;. This is the main source of information on the latest labour market trends throughout Canada.&lt;/p&gt;
 &lt;p&gt;A selection of some of my graphical analysis, based on the latest data, is available &lt;a href=&#34;../lfs/LFS.html&#34;&gt;&lt;code&gt;here&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Selected statistics for Calgary and Edmonton are &lt;a href=&#34;LFS_cma.html&#34;&gt;&lt;code&gt;here&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Survey of Employment, Payroll and Hours</title>
+      <link>https://www.trevortombe.com/post/seph/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.trevortombe.com/post/seph/</guid>
+      <description>
+
+
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;p&gt;This is a work in progress.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;The latest SEPH graphs are &lt;a href=&#34;seph.html&#34;&gt;&lt;code&gt;here&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -217,15 +235,6 @@
       <pubDate>Mon, 18 Jun 2018 00:00:00 -0600</pubDate>
       
       <guid>https://www.trevortombe.com/publication/north/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Climate Policy Transition Briefing: An Evidence-Based Climate Policy for Ontario</title>
-      <link>https://www.trevortombe.com/publication/ontario360/</link>
-      <pubDate>Wed, 18 Apr 2018 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.trevortombe.com/publication/ontario360/</guid>
       <description></description>
     </item>
     

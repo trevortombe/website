@@ -1,0 +1,16 @@
+---
+title: "Survey of Employment, Payroll and Hours"
+author: "Trevor Tombe"
+date: 2019-01-06
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+{{% alert warning %}}
+This is a work in progress.
+{{% /alert %}}
+
+The latest SEPH graphs are [`here`](seph.html)
