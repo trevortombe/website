@@ -13,4 +13,4 @@ knitr::opts_chunk$set(echo = TRUE)
 This is a work in progress.
 {{% /alert %}}
 
-The latest SEPH graphs are [`here`](seph.html)
+The latest SEPH graphs are [`here`](SEPH.html)
