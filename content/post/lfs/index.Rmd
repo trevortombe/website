@@ -17,4 +17,4 @@ Each month Statistics Canada releases their [`Labour Force Survey`](https://www.
 
 A selection of some of my graphical analysis, based on the latest data, is available [`here`](LFS.html).
 
-
+Selected statistics for Calgary and Edmonton are [`here`](LFS_cma.html)
