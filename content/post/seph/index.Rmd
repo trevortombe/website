@@ -1,5 +1,5 @@
 ---
-title: "Survey of Employment, Payroll and Hours"
+title: "SEPH Test"
 author: "Trevor Tombe"
 date: 2019-01-24
 output: html_document
@@ -13,4 +13,6 @@ knitr::opts_chunk$set(echo = TRUE)
 This is a work in progress.
 {{% /alert %}}
 
-The latest SEPH graphs are [`here`](SEPH.html)
+
+A selection of some of my graphical analysis, based on the latest data, is available [`here`](SEPH.html).
+
