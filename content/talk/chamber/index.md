@@ -1,6 +1,6 @@
 +++
 title = "Calgary Chamber of Commerce Event: The economic landscape and the 2019 Alberta election"
-date = 2019-01-08  # Schedule page publish date.
+date = 2019-01-08T09:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
