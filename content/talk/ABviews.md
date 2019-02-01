@@ -12,11 +12,11 @@ time_end = "2019-02-21T20:30:00"
 authors = []
 
 # Abstract and optional shortened version.
-abstract = "evin Van Tighem, Trevor Tombe, and Susan Wright will provide in-depth takes on the current political conversations, as well as offer unique insights into what an engaged electorate should be talking about. Hosted by Shelley Youngblut, this event includes an audience Q&A. Cash bar available. Presented in partnership with Wordfest and Alberta Views Magazine."
+abstract = "Kevin Van Tighem, Trevor Tombe, and Susan Wright will provide in-depth takes on the current political conversations, as well as offer unique insights into what an engaged electorate should be talking about. Hosted by Shelley Youngblut, this event includes an audience Q&A. Cash bar available. Presented in partnership with Wordfest and Alberta Views Magazine."
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Alberta Views Live: Election Deep Dive"
+event = "Alberta Views Live: Election Deep Dive Panel"
 event_url = "https://wordfest.com/session/alberta-views-live-election-deep-dive/"
 
 # Location of event.

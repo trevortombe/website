@@ -16,7 +16,7 @@ abstract = "Albertans are concerned about the province's fiscal situation. Budge
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Panel Event"
+event = "Alberta Fiscal Future Conference"
 event_url = "https://www.policyschool.ca/events/the-challenges-and-opportunities-for-fiscal-reform-in-alberta/"
 
 # Location of event.
