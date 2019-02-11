@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Max Bell School of Public Policy</title>
+      <link>https://www.trevortombe.com/talk/maxbell/</link>
+      <pubDate>Sun, 10 Feb 2019 09:00:00 -0700</pubDate>
+      
+      <guid>https://www.trevortombe.com/talk/maxbell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SACPA Talk on Equalization</title>
+      <link>https://www.trevortombe.com/talk/sacpa/</link>
+      <pubDate>Sun, 10 Feb 2019 09:00:00 -0700</pubDate>
+      
+      <guid>https://www.trevortombe.com/talk/sacpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Alberta Views Live: Election Deep Dive</title>
       <link>https://www.trevortombe.com/talk/abviews/</link>
       <pubDate>Fri, 01 Feb 2019 09:00:00 -0700</pubDate>
@@ -207,35 +225,6 @@
       
       <guid>https://www.trevortombe.com/publication/fiscal-future/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Fiscal Integration with Internal Trade: Quantifying the Effects of Equalizing Transfers</title>
-      <link>https://www.trevortombe.com/publication/fiscal_integration/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.trevortombe.com/publication/fiscal_integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alberta Economic Data</title>
-      <link>https://www.trevortombe.com/tutorial/lfs/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.trevortombe.com/tutorial/lfs/</guid>
-      <description>
-
-&lt;p&gt;In this &amp;hellip; blaa blaa&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
