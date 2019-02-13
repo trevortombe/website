@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Global Energy Challenge: Carbon tax unpopularity from France to Washington State</title>
+      <link>https://www.trevortombe.com/talk/global_energy/</link>
+      <pubDate>Wed, 13 Feb 2019 09:00:00 -0700</pubDate>
+      
+      <guid>https://www.trevortombe.com/talk/global_energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Max Bell School of Public Policy</title>
       <link>https://www.trevortombe.com/talk/maxbell/</link>
       <pubDate>Sun, 10 Feb 2019 09:00:00 -0700</pubDate>
@@ -216,15 +225,6 @@
 
 &lt;p&gt;For more information, visit &lt;a href=&#34;https://www.policyschool.ca/events/measuring-the-impacts-of-energy-infrastructure/&#34; target=&#34;_blank&#34;&gt;https://www.policyschool.ca/events/measuring-the-impacts-of-energy-infrastructure/&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Alberta&#39;s Long-Term Fiscal Future</title>
-      <link>https://www.trevortombe.com/publication/fiscal-future/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.trevortombe.com/publication/fiscal-future/</guid>
-      <description></description>
     </item>
     
   </channel>
