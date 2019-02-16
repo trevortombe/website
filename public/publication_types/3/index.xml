@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 on Trevor Tombe</title>
-    <link>https://www.trevortombe.com/publication_types/3/</link>
+    <link>/publication_types/3/</link>
     <description>Recent content in 3 on Trevor Tombe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Mon, 01 Oct 2018 00:00:00 -0600</lastBuildDate>
     
-	<atom:link href="https://www.trevortombe.com/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fiscal Integration with Internal Trade: Quantifying the Effects of Equalizing Transfers</title>
-      <link>https://www.trevortombe.com/publication/fiscal_integration/</link>
+      <link>/publication/fiscal_integration/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://www.trevortombe.com/publication/fiscal_integration/</guid>
+      <guid>/publication/fiscal_integration/</guid>
       <description></description>
     </item>
     

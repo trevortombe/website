@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Trevor Tombe</title>
-    <link>https://www.trevortombe.com/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Trevor Tombe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://www.trevortombe.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SEPH Test</title>
-      <link>https://www.trevortombe.com/post/seph/</link>
+      <link>/post/seph/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.trevortombe.com/post/seph/</guid>
+      <guid>/post/seph/</guid>
       <description>This is a work in progress.
  A selection of some of my graphical analysis, based on the latest data, is available here.</description>
     </item>
     
     <item>
       <title>newmd</title>
-      <link>https://www.trevortombe.com/post/testing/</link>
+      <link>/post/testing/</link>
       <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.trevortombe.com/post/testing/</guid>
+      <guid>/post/testing/</guid>
       <description>Here is some text. Lots of text. So much text.
 Gee this is fun!
 Let’s add a table, just for kicks.
@@ -38,10 +38,10 @@ This summation expression is in display form.
     
     <item>
       <title>Labour Force Survey</title>
-      <link>https://www.trevortombe.com/post/lfs/</link>
+      <link>/post/lfs/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.trevortombe.com/post/lfs/</guid>
+      <guid>/post/lfs/</guid>
       <description>This is a work in progress.
  Each month Statistics Canada releases their Labour Force Survey. This is the main source of information on the latest labour market trends throughout Canada.
 A selection of some of my graphical analysis, based on the latest data, is available here.
@@ -50,14 +50,27 @@ Selected statistics for Calgary and Edmonton are here</description>
     
     <item>
       <title>Labour Force Survey, CMA Detail</title>
-      <link>https://www.trevortombe.com/post/lfs_cma/</link>
+      <link>/post/lfs_cma/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.trevortombe.com/post/lfs_cma/</guid>
+      <guid>/post/lfs_cma/</guid>
       <description>This is a work in progress.
  Each month Statistics Canada releases their Labour Force Survey. This is the main source of information on the latest labour market trends throughout Canada.
 A selection of some of my graphical analysis, based on the latest data, is available here.
 Selected statistics for Calgary and Edmonton are here</description>
+    </item>
+    
+    <item>
+      <title>Academic: the website designer for Hugo</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>/post/getting-started/</guid>
+      <description>Test 1 Blaa
+Test 2 blaa blaa
+Academic makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
+Follow our easy step by step guide to learn how to build your own free website with Academic. Check out the personal demo or the business demo of what you&amp;rsquo;ll get in less than 10 minutes.
+ View the documentation Ask a question Request a feature or report a bug Updating?</description>
     </item>
     
   </channel>

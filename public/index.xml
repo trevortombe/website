@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trevor Tombe on Trevor Tombe</title>
-    <link>https://www.trevortombe.com/</link>
+    <link>/</link>
     <description>Recent content in Trevor Tombe on Trevor Tombe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,46 +12,72 @@
     
     <item>
       <title>Global Energy Challenge: Carbon tax unpopularity from France to Washington State</title>
-      <link>https://www.trevortombe.com/talk/global_energy/</link>
+      <link>/talk/global_energy/</link>
       <pubDate>Wed, 13 Feb 2019 09:00:00 -0700</pubDate>
       
-      <guid>https://www.trevortombe.com/talk/global_energy/</guid>
+      <guid>/talk/global_energy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Max Bell School of Public Policy</title>
-      <link>https://www.trevortombe.com/talk/maxbell/</link>
+      <link>/talk/maxbell/</link>
       <pubDate>Sun, 10 Feb 2019 09:00:00 -0700</pubDate>
       
-      <guid>https://www.trevortombe.com/talk/maxbell/</guid>
+      <guid>/talk/maxbell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SACPA Talk on Equalization</title>
-      <link>https://www.trevortombe.com/talk/sacpa/</link>
+      <link>/talk/sacpa/</link>
       <pubDate>Sun, 10 Feb 2019 09:00:00 -0700</pubDate>
       
-      <guid>https://www.trevortombe.com/talk/sacpa/</guid>
+      <guid>/talk/sacpa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alberta Views Live: Election Deep Dive</title>
-      <link>https://www.trevortombe.com/talk/abviews/</link>
+      <link>/talk/abviews/</link>
       <pubDate>Fri, 01 Feb 2019 09:00:00 -0700</pubDate>
       
-      <guid>https://www.trevortombe.com/talk/abviews/</guid>
+      <guid>/talk/abviews/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Alberta Labour Market Indicators</title>
+      <link>/project/lfs/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0700</pubDate>
+      
+      <guid>/project/lfs/</guid>
+      <description>
+
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;p&gt;This is a work in progress.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;labour-force-survey&#34;&gt;Labour Force Survey&lt;/h2&gt;
+
+&lt;p&gt;Each month Statistics Canada releases their &lt;a href=&#34;https://www.statcan.gc.ca/eng/survey/household/3701&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;Labour Force Survey&lt;/code&gt;&lt;/a&gt;. This is the main source of information on the latest labour market trends throughout Canada.&lt;/p&gt;
+
+&lt;p&gt;A selection of some of the latest data is available &lt;a href=&#34;/data/LFS.html&#34;&gt;&lt;code&gt;here&lt;/code&gt;&lt;/a&gt;. Selected statistics for Calgary and Edmonton are &lt;a href=&#34;/data/LFS_cma.html&#34;&gt;&lt;code&gt;here&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;survey-of-payroll-employment-and-hours&#34;&gt;Survey of Payroll, Employment and Hours&lt;/h2&gt;
+
+&lt;p&gt;A summary of the latest SEPH data is available &lt;a href=&#34;/data/SEPH.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>SEPH Test</title>
-      <link>https://www.trevortombe.com/post/seph/</link>
+      <link>/post/seph/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.trevortombe.com/post/seph/</guid>
+      <guid>/post/seph/</guid>
       <description>
 
 
@@ -66,37 +92,37 @@
     
     <item>
       <title>The Challenges and Opportunities for Fiscal Reform in Alberta</title>
-      <link>https://www.trevortombe.com/talk/fiscal_future/</link>
+      <link>/talk/fiscal_future/</link>
       <pubDate>Sun, 13 Jan 2019 09:00:00 -0700</pubDate>
       
-      <guid>https://www.trevortombe.com/talk/fiscal_future/</guid>
+      <guid>/talk/fiscal_future/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thompson Rivers University</title>
-      <link>https://www.trevortombe.com/talk/tru_feb14/</link>
+      <link>/talk/tru_feb14/</link>
       <pubDate>Wed, 09 Jan 2019 09:00:00 -0700</pubDate>
       
-      <guid>https://www.trevortombe.com/talk/tru_feb14/</guid>
+      <guid>/talk/tru_feb14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Calgary Chamber of Commerce Event: The economic landscape and the 2019 Alberta election</title>
-      <link>https://www.trevortombe.com/talk/chamber/</link>
+      <link>/talk/chamber/</link>
       <pubDate>Tue, 08 Jan 2019 09:00:00 -0700</pubDate>
       
-      <guid>https://www.trevortombe.com/talk/chamber/</guid>
+      <guid>/talk/chamber/</guid>
       <description></description>
     </item>
     
     <item>
       <title>newmd</title>
-      <link>https://www.trevortombe.com/post/testing/</link>
+      <link>/post/testing/</link>
       <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.trevortombe.com/post/testing/</guid>
+      <guid>/post/testing/</guid>
       <description>
 
 
@@ -139,10 +165,10 @@
     
     <item>
       <title>Labour Force Survey</title>
-      <link>https://www.trevortombe.com/post/lfs/</link>
+      <link>/post/lfs/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.trevortombe.com/post/lfs/</guid>
+      <guid>/post/lfs/</guid>
       <description>
 
 
@@ -159,10 +185,10 @@
     
     <item>
       <title>Labour Force Survey, CMA Detail</title>
-      <link>https://www.trevortombe.com/post/lfs_cma/</link>
+      <link>/post/lfs_cma/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.trevortombe.com/post/lfs_cma/</guid>
+      <guid>/post/lfs_cma/</guid>
       <description>
 
 
@@ -179,46 +205,28 @@
     
     <item>
       <title>Final and Unalterable - But Up for Negotiation: Federal-Provincial Transfers in Canada</title>
-      <link>https://www.trevortombe.com/publication/transfers/final-and-unalterable-but-up-for-negotiation/</link>
+      <link>/publication/transfers/final-and-unalterable-but-up-for-negotiation/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0700</pubDate>
       
-      <guid>https://www.trevortombe.com/publication/transfers/final-and-unalterable-but-up-for-negotiation/</guid>
+      <guid>/publication/transfers/final-and-unalterable-but-up-for-negotiation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Labour Force Survey</title>
-      <link>https://www.trevortombe.com/project/lfs/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0700</pubDate>
-      
-      <guid>https://www.trevortombe.com/project/lfs/</guid>
-      <description>&lt;div class=&#34;alert alert-warning&#34;&gt;
-  &lt;p&gt;This is a work in progress.&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-&lt;p&gt;Each month Statistics Canada releases their labour force survey data.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;rsquo;s a &lt;a href=&#34;https://www.trevortombe.com/post/lfs/lfs/&#34; target=&#34;_blank&#34;&gt;collection&lt;/a&gt; of my random graphics.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Trade, Migration and Productivity: A Quantitative Analysis of China</title>
-      <link>https://www.trevortombe.com/publication/china-migration/</link>
+      <link>/publication/china-migration/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0700</pubDate>
       
-      <guid>https://www.trevortombe.com/publication/china-migration/</guid>
+      <guid>/publication/china-migration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring The Impacts of Energy Infrastructure</title>
-      <link>https://www.trevortombe.com/talk/energy/</link>
+      <link>/talk/energy/</link>
       <pubDate>Fri, 07 Dec 2018 07:00:00 -0700</pubDate>
       
-      <guid>https://www.trevortombe.com/talk/energy/</guid>
+      <guid>/talk/energy/</guid>
       <description>&lt;p&gt;Energy infrastructure, like pipelines and transmission lines, underpin the quality of life that Canadians enjoy. The infrastructure contributes to GDP, enables trade and is a major component of federal, provincial and municipal tax revenue. But, these gains must be weighed against potentially social and environmental consequences. Regulatory approval for such projects is often conditional on demonstration of positive contributions to the public interest - but unfortunately, the best methods to evaluate these effects are unclear.&lt;/p&gt;
 
 &lt;p&gt;Join The School of Public Policy for a fast-paced conference, featuring experts who will propose and explore methods and metrics for measuring the consequences of new energy infrastructure for Canada. We will examine social, environmental and economic opportunities across Canada. Research presented at this conference will then be compiled into a book, which will inform policymakers and regulators in Canada, enabling them to better understand how to evaluate the costs and benefits of energy infrastructure.&lt;/p&gt;

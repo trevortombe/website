@@ -21,6 +21,13 @@ theme = "black"
 
 ---
 
+## Adding a figure
+
+![some caption](/img/books.jpg)
+
+
+---
+
 ## Controls
 
 - Next: `Right Arrow` or `Space`

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Overview on Trevor Tombe</title>
-    <link>https://www.trevortombe.com/tutorial/</link>
+    <link>/tutorial/</link>
     <description>Recent content in Overview on Trevor Tombe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 09 Sep 2018 00:00:00 -0600</lastBuildDate>
     
-	<atom:link href="https://www.trevortombe.com/tutorial/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Alberta Economic Data</title>
-      <link>https://www.trevortombe.com/tutorial/lfs/</link>
+      <link>/tutorial/lfs/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://www.trevortombe.com/tutorial/lfs/</guid>
+      <guid>/tutorial/lfs/</guid>
       <description>In this &amp;hellip; blaa blaa
 Tip 1 &amp;hellip;
 Tip 2 &amp;hellip;</description>

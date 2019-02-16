@@ -1,9 +1,9 @@
 +++
 # Project title.
-title = "Labour Force Survey"
+title = "Alberta Labour Market Indicators"
 
 # Date this page was created.
-date = 2019-01-01T00:00:00
+date = 2019-02-01T00:00:00
 
 # Project summary to display on homepage.
 summary = "Summarizing the latest labour market data for Alberta."
@@ -31,7 +31,7 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/trevortombe"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -48,8 +48,13 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 This is a work in progress.
 {{% /alert %}}
 
-Each month Statistics Canada releases their labour force survey data.
+## Labour Force Survey
 
-Here's a [collection](https://www.trevortombe.com/post/lfs/lfs/) of my random graphics.
+Each month Statistics Canada releases their [`Labour Force Survey`](https://www.statcan.gc.ca/eng/survey/household/3701). This is the main source of information on the latest labour market trends throughout Canada.
 
+A selection of some of the latest data is available [`here`](/data/LFS.html). Selected statistics for Calgary and Edmonton are [`here`](/data/LFS_cma.html)
+
+## Survey of Payroll, Employment and Hours
+
+A summary of the latest SEPH data is available [here](/data/SEPH.html)
 

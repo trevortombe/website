@@ -2,33 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Trevor Tombe</title>
-    <link>https://www.trevortombe.com/project/</link>
+    <link>/project/</link>
     <description>Recent content in Projects on Trevor Tombe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://www.trevortombe.com/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Labour Force Survey</title>
-      <link>https://www.trevortombe.com/project/lfs/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0700</pubDate>
+      <title>Alberta Labour Market Indicators</title>
+      <link>/project/lfs/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0700</pubDate>
       
-      <guid>https://www.trevortombe.com/project/lfs/</guid>
+      <guid>/project/lfs/</guid>
       <description>This is a work in progress.
- Each month Statistics Canada releases their labour force survey data.
-Here&amp;rsquo;s a collection of my random graphics.</description>
+ Labour Force Survey Each month Statistics Canada releases their Labour Force Survey. This is the main source of information on the latest labour market trends throughout Canada.
+A selection of some of the latest data is available here. Selected statistics for Calgary and Edmonton are here
+Survey of Payroll, Employment and Hours A summary of the latest SEPH data is available here</description>
     </item>
     
     <item>
       <title>Alberta&#39;s Fiscal Future</title>
-      <link>https://www.trevortombe.com/project/ab-fiscal-future/</link>
+      <link>/project/ab-fiscal-future/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 -0600</pubDate>
       
-      <guid>https://www.trevortombe.com/project/ab-fiscal-future/</guid>
+      <guid>/project/ab-fiscal-future/</guid>
       <description></description>
     </item>
     
