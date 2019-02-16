@@ -18,7 +18,7 @@ authors = ["G. Kent Fellows","Trevor Tombe"]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "SPP Research Paper"
+publication = "*SPP Research Paper* 11 (17): June 2018"
 publication_short = "*SPP Research Paper* 11 (17): June 2018"
 
 # Abstract and optional shortened version.
@@ -73,10 +73,18 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Photo by @haakon, Unsplash"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
 
+# Abstract
+Challenged by remote locations, small populations, rugged terrain and (at times) difficult climate conditions, Canada's territories rely heavily on imported goods to maintain their standards of living. At the same time, industries in the territories are highly reliant on access to export markets - especially the large and growing resource sectors of the region. But these trade flows face significant costs that improved infrastructure may help mitigate. A northern transportation corridor could help, and has recently gained prominence following recent reports and hearings by the Senate of Canada. The potential gains are large.
+
+This paper estimates trade costs in Canada's North. We find policy-relevant trade costs (those trade costs that policy changes may help lower) are substantial. The regulatory differences, time delays and lower infrastructure quality that inhibit trade add between 20 to 30 per cent to the cost of a delivered good for Yukon and Northwest Territories and over 60 per cent for Nunavut. Infrastructure may be a large cause of higher trade costs. We find that distance-related costs are 45 per cent higher per kilometre for trade with a territory than for trade between two provinces.
+
+The region's economy, productivity, income and investment are significantly lower as a result. Using a detailed model of the Canadian economy, we find that lowering these barriers - such as through improving northern transportation infrastructure - could add up to $6.5 billion to Canada's GDP, with most of that gain occurring in the territories. For the Yukon, Nunavut and Northwest Territories the gains equal about $40,000 per person, which is a 50 per cent increase in productivity.
+
+The Senate's advocacy for reducing trade barriers is encouraging and the federal government broadly supports knocking down these barriers. It is time for all three levels of government to work together to create policies on, and funding for, improved infrastructure in Canada's North and near-North.

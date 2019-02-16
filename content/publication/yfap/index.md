@@ -22,7 +22,7 @@ publication = "Report for Premier Sandy Silver, *Government of Yukon*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "To support building a healthy financial future, the Yukon government assembled an independent Financial Advisory Panel to provide the government with options for future financial planning."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Yukon Public Engagements", url = "https://engageyukon.ca/en/2017/financial-plans-government-yukon"}]
 
 # Digital Object Identifier (DOI)
 doi = ""

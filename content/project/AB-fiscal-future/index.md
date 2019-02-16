@@ -25,3 +25,7 @@ external_link = "https://www.policyschool.ca/albertas-fiscal-future/"
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+
+The Alberta's Fiscal Future (AFF) project is a two-year research/public engagement initiative providing the public and policy makers with in-depth analyses of Alberta's fiscal situation and policy options to address it.
+
+The main site for the project is at the [School of Public Policy](https://www.policyschool.ca/albertas-fiscal-future).
