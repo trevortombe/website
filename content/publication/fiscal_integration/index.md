@@ -18,8 +18,8 @@ authors = ["Trevor Tombe","Jennifer Winter"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper"
-publication_short = "*Working Paper*"
+publication = "Canadian Journal of Economics, revised and resubmitted"
+publication_short = "*Canadian Journal of Economics, revised and resubmitted*"
 
 # Abstract and optional shortened version.
 abstract = "Fiscal transfers between regions exist within many countries. Explicit transfers, such as Canada's equalization program, redistribute funds directly, and countless federal revenue and spending programs do so indirectly. And like capital flows between countries, such transfers interact with trade and affect the distribution of economic activity within and between provinces. Previous research has largely abstracted from trade considerations; we fill this gap. With the aid of a rich quantitative model and detailed data on within-country trade and financial flows, we uncover important effects of fiscal transfers on provincial income, internal trade flows, migration, and national GDP. The effects are large. Transfers lower Alberta's real income by over 8 per cent and its population by over 12 per cent, and increase PEI's real income by 30 per cent and its population by nearly 50 per cent. We further find transfers misallocate labour across provinces and lower Canada's real GDP by over 0.8 per cent -- equivalent to nearly $19 billion per year today. Finally, fiscal transfers spread gains from trade across all regions, even if policy (like the New West Partnership) liberalizes trade only among some."
