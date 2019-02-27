@@ -1,23 +1,23 @@
 +++
-title = "Alberta's Fork in the Road - The Impact of Potential Outcomes of the Provincial Election"
-date = 2019-02-27T09:00:00  # Schedule page publish date.
+title = "Calgary Chamber of Commerce Event: The economic landscape and the 2019 Alberta election"
+date = 2019-01-08T09:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = "2019-03-21T11:30:00"
-time_end = "2019-03-21T13:30:00"
+time_start = "2019-01-24T17:00:00"
+time_end = "2019-01-24T19:30:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
 
 # Abstract and optional shortened version.
-abstract = "For information, and to register, visit the School of Public Policy website [here](https://www.policyschool.ca/events/albertas-fork-in-the-road-the-impact-of-potential-outcomes-of-the-provincial-election/)"
+abstract = "For information, and to register, visit the Calgary Chamber website [here](https://www.calgarychamber.com/event/economic-landscape-2019-alberta-election/)"
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Panel"
-event_url = "https://www.policyschool.ca/events/albertas-fork-in-the-road-the-impact-of-potential-outcomes-of-the-provincial-election/"
+event = "The economic landscape and the 2019 Alberta election"
+event_url = "https://www.calgarychamber.com/event/economic-landscape-2019-alberta-election/"
 
 # Location of event.
 location = "Central Library, 800 3rd Street Southeast, Calgary, AB, Canada"
