@@ -12,7 +12,7 @@ time_end = "2019-03-21T13:30:00"
 authors = []
 
 # Abstract and optional shortened version.
-abstract = "For information, and to register, visit the School of Public Policy website [here](https://www.policyschool.ca/events/albertas-fork-in-the-road-the-impact-of-potential-outcomes-of-the-provincial-election/)"
+abstract = "Perhaps never in recent memory has there been so much anticipation of a provincial election.  At stake is Alberta's fiscal and social future, and at odds are two very different platforms and very different views on how to chart a solid path for the province.  The choice facing Albertans will be stark. That's why The School of Public Policy has assembled a panel of experts from various fields to assess the pitches that are being made, fact check them, and offer analysis of the longer-term impacts of the policy promises being made by each party. If you think this election is worth thinking about, we invite you to join us for this event. For information, and to register, visit the School of Public Policy website [here](https://www.policyschool.ca/events/albertas-fork-in-the-road-the-impact-of-potential-outcomes-of-the-provincial-election/)"
 abstract_short = ""
 
 # Name of event and optional event URL.
