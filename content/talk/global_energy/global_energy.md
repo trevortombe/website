@@ -12,12 +12,12 @@ time_end = "2019-03-20T18:30:00"
 authors = []
 
 # Abstract and optional shortened version.
-abstract = "The economic case for a carbon tax is compelling. Yet the political appeal of a carbon tax is weak. In 2018 we saw violent protests in France against the fuel tax hike and the defeat of the 2018 Carbon Fee Initiative in the State of Washington. Can carbon taxes be designed to be more politically acceptable? Do societies need to think of other policy instruments to address climate change? What are the strategies to make climate policy speak to everyday concerns of all stakeholders?"
+abstract = "The economic case for a carbon tax is compelling. Yet the political appeal of a carbon tax is weak. In 2018 we saw violent protests in France against the fuel tax hike and the defeat of the 2018 Carbon Fee Initiative in the State of Washington. Can carbon taxes be designed to be more politically acceptable? Do societies need to think of other policy instruments to address climate change? What are the strategies to make climate policy speak to everyday concerns of all stakeholders? For additional details, and to register, visit the Haskayne School of Business website [here](https://haskayne.ucalgary.ca/events/global-energy-challenge-carbon-tax-unpopularity-france-washington-state)."
 abstract_short = ""
 
 # Name of event and optional event URL.
 event = "Panel"
-event_url = "http://em.ucalgary.ca/ol/h09ZdMTJdlhd6BYgutO1DPC0z3iTI8vx6_EwRKC0i5xtlFhsfeiCdQy83YQIT9Q_du6XBV9AVZRoxFEIXPObIdAG__xZVkS8XSn4maTMaoNaYpRm38Bt-Km3wS4Gq5uXm1iRWB9YEig1MVTbarclhzbUJZ1-DVDeqyyUbcEmhDwahOBCkNQ,/jEtYccPKI1lNoVdlsbPWJaajijbBdp-pqaUzCvap28E63FAwYuTfd0TiidpdU5c_ZOCSNgcSBZlk11NVEfSqaI9Lp_BEIVGbUjT2t6roSIxFIJFE6ONRzY2Di1cOrvaAoXXfIEE_SV5lTgukUY0HgG33O5MWZTKF3U33Gdc7uhosie4y_p2yfOKewnaYw3H01BO5AAN17PKX2GWRFqt_ofIviHQv8GATL8rc1gP18pF1gxQ-0rgkujpn7s8gJP9txDafbBLr7IrzecNDWLnjlenYscoMP00zs6MGeVv_D1-LNamtKjIl8zW6vzQAGCNsAAEIONkPgCOMqWp0RP8DcCqGqxsVyz8V5vFP3azw4Rm1ayrdDAqn"
+event_url = "https://haskayne.ucalgary.ca/events/global-energy-challenge-carbon-tax-unpopularity-france-washington-state"
 
 # Location of event.
 location = "University of Calgary Downtown Campus - 906 8th Ave SW, Calgary, AB"
