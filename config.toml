@@ -11,6 +11,9 @@ baseurl = "https://www.trevortombe.com/"
 # Title of your site
 title = "Trevor Tombe"
 
+# Main URL? Not sure if this does anything
+live_base_url = "https://www.trevortombe.com"
+
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; 2019"

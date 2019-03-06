@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://trevortombe.netlify.com/* https://www.trevortombe.com/:splat 301!
