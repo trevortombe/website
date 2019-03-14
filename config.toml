@@ -36,6 +36,10 @@ defaultContentLanguage = "en"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
+# SEO Optimization options
+enableRobotsTXT = true
+canonifyURLs = true
+
 # Get last modified date for content from Git?
 enableGitInfo = false
 
