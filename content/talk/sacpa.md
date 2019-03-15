@@ -5,7 +5,7 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = "2019-03-28T12:00:00"
+time_start = "2019-03-28T11:30:00"
 time_end = "2019-03-28T13:30:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -17,7 +17,7 @@ abstract_short = ""
 
 # Name of event and optional event URL.
 event = "Talk"
-event_url = "http://www.sacpa.ca/"
+event_url = "http://www.sacpa.ca/?p=38&action=view_session&ID=1399"
 
 # Location of event.
 location = "Royal Canadian Legion 324 Mayor Magrath Dr. S., Lethbridge, Alberta"
