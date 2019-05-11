@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "AEA Research Highlight", url = "https://www.aeaweb.org/research/how-do-firms-respond-to-quality-disclosure-requirements"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
