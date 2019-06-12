@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "BCHT_DNA.pdf"
+url_pdf = "files/BCHT_DNA.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
