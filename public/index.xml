@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Internal Trade: The Case for Liberalization</title>
+      <link>https://www.trevortombe.com/publication/imf_trade/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://www.trevortombe.com/publication/imf_trade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Carbon Omissions: An Analysis of Carbon Tax Treatment Within Canada&#39;s Equalization Program</title>
       <link>https://www.trevortombe.com/publication/ctax_equal/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 -0600</pubDate>
@@ -196,26 +205,6 @@
 &lt;p&gt;This summation expression &lt;span class=&#34;math inline&#34;&gt;\(\sum_{i=1}^n X_i\)&lt;/span&gt; appears inline.&lt;/p&gt;
 &lt;p&gt;This summation expression is in display form.&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[\sum_{i=1}^n X_i\]&lt;/span&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Labour Force Survey</title>
-      <link>https://www.trevortombe.com/post/lfs/</link>
-      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.trevortombe.com/post/lfs/</guid>
-      <description>
-
-
-&lt;div class=&#34;alert alert-warning&#34;&gt;
-  &lt;p&gt;This is a work in progress.&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;Each month Statistics Canada releases their &lt;a href=&#34;https://www.statcan.gc.ca/eng/survey/household/3701&#34;&gt;&lt;code&gt;Labour Force Survey&lt;/code&gt;&lt;/a&gt;. This is the main source of information on the latest labour market trends throughout Canada.&lt;/p&gt;
-&lt;p&gt;A selection of some of my graphical analysis, based on the latest data, is available &lt;a href=&#34;LFS.html&#34;&gt;&lt;code&gt;here&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Selected statistics for Calgary and Edmonton are &lt;a href=&#34;../lfs_cma/LFS_cma.html&#34;&gt;&lt;code&gt;here&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
