@@ -1,6 +1,6 @@
 +++
-title = "Internal Trade: The Case for Liberalization"
-date = 2019-06-24
+title = "Internal Trade in Canada: The Case for Liberalization"
+date = 2019-07-22
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,11 +18,11 @@ authors = ["Jorge Alvarez","Ivo Krznar","Trevor Tombe"]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "IMF Country Report No. 19/176, Selected Issues Paper, Pages 38-72"
-publication_short = "*IMF Country Report No. 19/176*"
+publication = "IMF Working Paper No. 19/158"
+publication_short = "*IMF Working Paper 19/158*"
 
 # Abstract and optional shortened version.
-abstract = "This chapter assesses the costs of internal trade barriers and proposes policies to improve internal trade. Estimates suggest that complete liberalization of internal trade in goods can increase GDP per capita by about 4 percent and reallocate employment towards provinces that experience large productivity gains from trade. The positive impact highlights the need for federal, provincial and territorial governments to work together to reduce internal trade barriers. There is significant scope to build on the new Canadian Free Trade Agreement to more explicitly identify key trade restrictions, resolve differences, and agree on cooperative solutions."
+abstract = "This paper assesses the costs of internal trade barriers and proposes policies to improve internal trade. Estimates suggest that complete liberalization of internal trade in goods can increase GDP per capita by about 4 percent and reallocate employment towards provinces that experience large productivity gains from trade. The positive impact highlights the need for federal, provincial and territorial governments to work together to reduce internal trade barriers. There is significant scope to build on the new Canadian Free Trade Agreement to more explicitly identify key trade restrictions, resolve differences, and agree on cooperative solutions."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -63,7 +63,7 @@ url_source = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 url_custom = [{name = "Article IV Staff Report", url = "https://www.imf.org/en/Publications/CR/Issues/2019/06/24/Canada-2019-Article-IV-Consultation-Press-Release-and-Staff-Report-47021"},
-{name = "Selected Issues Paper", url = "https://www.imf.org/en/Publications/CR/Issues/2019/06/24/Canada-Selected-Issues-47022"}]
+{name = "IMF Working Paper", url = "https://www.imf.org/en/Publications/WP/Issues/2019/07/22/Internal-Trade-in-Canada-Case-for-Liberalization-47100"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
