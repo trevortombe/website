@@ -18,8 +18,8 @@ authors = ["Tracy Snoddon","Trevor Tombe"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Canadian Public Policy, revised and resubmitted"
-publication_short = "Canadian Public Policy, revised and resubmitted"
+publication = "Canadian Public Policy, forthcoming"
+publication_short = "Canadian Public Policy, forthcoming"
 
 # Abstract and optional shortened version.
 abstract = "Carbon taxes are not only an efficient tool to mitigate greenhouse gas emissions, but they are an increasingly important source of government revenue. By 2022, a $50 per tonne carbon tax has the potential to become the fifth most important source of revenue for provincial governments, which could be used to lower taxes elsewhere, support public services, or deliver household rebates. The uneven distribution of carbon emissions, however, creates significant differences across provinces in terms of their fiscal capacity for such measures, but little is known about how Canada's equalization program and carbon taxes interact. In this paper, we examine and quantify the effect of (1) increasing carbon tax revenues on the allocation of equalization payments, (2) introducing emissions as a distinct tax base within the formula, and (3) the omission of carbon tax revenue under the federal backstop program. We propose various reforms to potentially improve the functioning and effectiveness of both equalization and climate policies in Canada."
