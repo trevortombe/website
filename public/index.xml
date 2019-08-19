@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>The Challenges and Opportunities for Fiscal Reform in Alberta</title>
+      <link>https://www.trevortombe.com/talk/chamber_lunch/</link>
+      <pubDate>Mon, 19 Aug 2019 09:00:00 -0600</pubDate>
+      
+      <guid>https://www.trevortombe.com/talk/chamber_lunch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Internal Trade in Canada: The Case for Liberalization</title>
       <link>https://www.trevortombe.com/publication/imf_trade/</link>
       <pubDate>Mon, 22 Jul 2019 00:00:00 -0600</pubDate>
@@ -160,52 +169,6 @@
       
       <guid>https://www.trevortombe.com/talk/chamber/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>newmd</title>
-      <link>https://www.trevortombe.com/post/testing/</link>
-      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.trevortombe.com/post/testing/</guid>
-      <description>
-
-
-&lt;p&gt;Here is some text. Lots of text. So much text.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Gee this is fun!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Let’s add a table, just for kicks.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr class=&#34;header&#34;&gt;
-&lt;th&gt;hours of sun&lt;/th&gt;
-&lt;th&gt;happiness&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr class=&#34;odd&#34;&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&#34;even&#34;&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;4&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&#34;odd&#34;&gt;
-&lt;td&gt;5&lt;/td&gt;
-&lt;td&gt;7&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&#34;even&#34;&gt;
-&lt;td&gt;7&lt;/td&gt;
-&lt;td&gt;10&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;mean(iris$Sepal.Length)&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;## [1] 5.843333&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;This summation expression &lt;span class=&#34;math inline&#34;&gt;\(\sum_{i=1}^n X_i\)&lt;/span&gt; appears inline.&lt;/p&gt;
-&lt;p&gt;This summation expression is in display form.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[\sum_{i=1}^n X_i\]&lt;/span&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>

@@ -18,11 +18,11 @@ authors = ["Tracy Snoddon","Trevor Tombe"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Canadian Public Policy, forthcoming"
-publication_short = "Canadian Public Policy, forthcoming"
+publication = "Canadian Public Policy"
+publication_short = "Canadian Public Policy"
 
 # Abstract and optional shortened version.
-abstract = "Carbon taxes are not only an efficient tool to mitigate greenhouse gas emissions, but they are an increasingly important source of government revenue. By 2022, a $50 per tonne carbon tax has the potential to become the fifth most important source of revenue for provincial governments, which could be used to lower taxes elsewhere, support public services, or deliver household rebates. The uneven distribution of carbon emissions, however, creates significant differences across provinces in terms of their fiscal capacity for such measures, but little is known about how Canada's equalization program and carbon taxes interact. In this paper, we examine and quantify the effect of (1) increasing carbon tax revenues on the allocation of equalization payments, (2) introducing emissions as a distinct tax base within the formula, and (3) the omission of carbon tax revenue under the federal backstop program. We propose various reforms to potentially improve the functioning and effectiveness of both equalization and climate policies in Canada."
+abstract = "Carbon taxes are not only an effi cient tool to mitigate greenhouse gas emissions, but they are also an increasingly important source of government revenue. The uneven distribution of emissions, however, creates significant differences across provinces in terms of their revenue potential. Equalization payments can mitigate these differences, but little is known about how this program interacts with carbon taxes. In this article, we quantitatively analyze this interaction and explore alternative considerations for equalization design -- such as which revenues to include or tax bases to use -- that may motivate changes to improve the functioning and effectiveness of both equalization and climate policy."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -50,7 +50,7 @@ tags = []
 
 # Links (optional).
 url_pdf = "files/snoddon_tombe_2019.pdf"
-url_preprint = ""
+url_preprint = "https://www.utpjournals.press/doi/abs/10.3138/cpp.2019-036"
 url_code = ""
 url_dataset = ""
 url_project = ""
