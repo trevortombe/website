@@ -52,7 +52,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://ideas.repec.org/p/clg/wpaper/2018-13.html"
+url_pdf = "https://ideas.repec.org/a/ctf/journl/v66y2018i4p871-917.html"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
