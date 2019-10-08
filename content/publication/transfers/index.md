@@ -52,7 +52,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "file/tombe_final_unalterable_2019.pdf"
+url_pdf = "files/tombe_final_unalterable_2019.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
