@@ -52,7 +52,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://ideas.repec.org/a/ctf/journl/v66y2018i4p871-917.html"
+url_pdf = "file/tombe_final_unalterable_2019.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -65,7 +65,8 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "Journal Website", url = "http://www.ctf.ca/CTFWEB/EN/Publications/CTJ_Contents/2018CTJ4.aspx"}]
+url_custom = [{name = "Journal Website", url = "http://www.ctf.ca/CTFWEB/EN/Publications/CTJ_Contents/2018CTJ4.aspx"},
+{name="RePEc Link", url="https://ideas.repec.org/a/ctf/journl/v66y2018i4p871-917.html"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
