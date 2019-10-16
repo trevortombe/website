@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Carleton University Seminar</title>
+      <link>https://www.trevortombe.com/talk/carleton_oct2019/</link>
+      <pubDate>Wed, 16 Oct 2019 09:00:00 -0600</pubDate>
+      
+      <guid>https://www.trevortombe.com/talk/carleton_oct2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Calgary&#39;s Regional Active Economy: An Exploratory Study of the Role of an Active Ecosystem in Generating Community Value</title>
       <link>https://www.trevortombe.com/publication/activecity/</link>
       <pubDate>Thu, 05 Sep 2019 00:00:00 -0600</pubDate>
@@ -174,15 +183,6 @@
 
 &lt;p&gt;A selection of some of my graphical analysis, based on the latest data, is available &lt;a href=&#34;../../data/SEPH.html&#34;&gt;&lt;code&gt;here&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>The Challenges and Opportunities for Fiscal Reform in Alberta</title>
-      <link>https://www.trevortombe.com/talk/fiscal_future/</link>
-      <pubDate>Sun, 13 Jan 2019 09:00:00 -0700</pubDate>
-      
-      <guid>https://www.trevortombe.com/talk/fiscal_future/</guid>
-      <description></description>
     </item>
     
   </channel>
