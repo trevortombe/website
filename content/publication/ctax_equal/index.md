@@ -15,7 +15,7 @@ authors = ["Tracy Snoddon","Trevor Tombe"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Canadian Public Policy"
@@ -50,7 +50,7 @@ tags = []
 
 # Links (optional).
 url_pdf = "files/snoddon_tombe_2019.pdf"
-url_preprint = "https://www.utpjournals.press/doi/abs/10.3138/cpp.2019-036"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -62,6 +62,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Journal Article", url = "https://www.utpjournals.press/doi/abs/10.3138/cpp.2019-036"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
