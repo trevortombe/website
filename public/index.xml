@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>71st Annual Tax Conference, Canadian Tax Foundation</title>
+      <link>https://www.trevortombe.com/talk/ctf_dec/</link>
+      <pubDate>Tue, 19 Nov 2019 09:00:00 -0700</pubDate>
+      
+      <guid>https://www.trevortombe.com/talk/ctf_dec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Carleton University Seminar</title>
       <link>https://www.trevortombe.com/talk/carleton_oct2019/</link>
       <pubDate>Wed, 16 Oct 2019 09:00:00 -0600</pubDate>
@@ -164,24 +173,6 @@
 &lt;h2 id=&#34;survey-of-payroll-employment-and-hours&#34;&gt;Survey of Payroll, Employment and Hours&lt;/h2&gt;
 
 &lt;p&gt;A summary of the latest SEPH data is available &lt;a href=&#34;https://www.trevortombe.com/data/SEPH.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>SEPH Test</title>
-      <link>https://www.trevortombe.com/post/seph/</link>
-      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.trevortombe.com/post/seph/</guid>
-      <description>
-
-
-&lt;div class=&#34;alert alert-warning&#34;&gt;
-  &lt;p&gt;This is a work in progress.&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;A selection of some of my graphical analysis, based on the latest data, is available &lt;a href=&#34;../../data/SEPH.html&#34;&gt;&lt;code&gt;here&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
