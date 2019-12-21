@@ -1,6 +1,6 @@
 +++
 title = "The DNA of New Exporters: Spin-Offs and FDI at the Extensive Margin of Trade"
-date = 2019-06-10
+date = 2019-12-18
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,11 +18,11 @@ authors = ["Bernardo Blum","Sebastian Claro","Ignatius Horstmann","Trevor Tombe"
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "American Economic Review: Insights, revisions requested"
-publication_short = "*American Economic Review: Insights, revisions requested*"
+publication = "American Economic Review: Insights, revised and resubmitted"
+publication_short = "*American Economic Review: Insights, revised and resubmitted*"
 
 # Abstract and optional shortened version.
-abstract = "While new exporters account for the majority of aggregate export growth, little else is known about them. Using new data on Chilean firms, we document that aggregate export growth in Chile is driven by only a few new exporters. These exporters are new business entities, operate new plants, and behave much like experienced exporters: they start large, have high survival rates, and quickly converge to their long-term export intensity. Moreover, these new firms are owned by existing businesses and are likely the by-product of either domestic spin-offs or foreign direct investment. By focusing on the average new exporter, typically a firm previously serving the domestic market, the existing models of new exporter dynamics miss these keys features of export growth."
+abstract = "Other than that new exporters account for a large part of aggregate export growth, we know little else. We document that aggregate export growth in Chile is driven by only a few new exporters. These exporters are new business entities, operate new plants, and behave much like experienced exporters: they start large and have high survival rates. Moreover, 70% of these new firms are owned by existing businesses and are likely the by-product of either domestic spin-offs or foreign direct investment (24%). By focusing on the average new exporter the existing models of new exporter dynamics miss these key features of export growth."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
