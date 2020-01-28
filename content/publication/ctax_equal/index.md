@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Canadian Public Policy"
-publication_short = "Canadian Public Policy"
+publication_short = "*Canadian Public Policy*"
 
 # Abstract and optional shortened version.
 abstract = "Carbon taxes are not only an effi cient tool to mitigate greenhouse gas emissions, but they are also an increasingly important source of government revenue. The uneven distribution of emissions, however, creates significant differences across provinces in terms of their revenue potential. Equalization payments can mitigate these differences, but little is known about how this program interacts with carbon taxes. In this article, we quantitatively analyze this interaction and explore alternative considerations for equalization design -- such as which revenues to include or tax bases to use -- that may motivate changes to improve the functioning and effectiveness of both equalization and climate policy."

@@ -18,8 +18,8 @@ authors = ["Jorge Alvarez","Ivo Krznar","Trevor Tombe"]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "IMF Working Paper No. 19/158"
-publication_short = "*IMF Working Paper 19/158*"
+publication = "IMF Working Paper No. 19-158"
+publication_short = "*IMF Working Paper 19-158*"
 
 # Abstract and optional shortened version.
 abstract = "This paper assesses the costs of internal trade barriers and proposes policies to improve internal trade. Estimates suggest that complete liberalization of internal trade in goods can increase GDP per capita by about 4 percent and reallocate employment towards provinces that experience large productivity gains from trade. The positive impact highlights the need for federal, provincial and territorial governments to work together to reduce internal trade barriers. There is significant scope to build on the new Canadian Free Trade Agreement to more explicitly identify key trade restrictions, resolve differences, and agree on cooperative solutions."
