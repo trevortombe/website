@@ -20,10 +20,21 @@ caption = ""
 
 +++
 
+A full list of courses is available [here](https://econ.ucalgary.ca/courses)
+
+Winter 2020 Semester:
+
+- ECON 759: Advanced Macroeconomics Theory (PhD)
+- MGST 611: Managerial Economics (EMBA)
+- PPOL 615: Public Finance (MPP)
+
+Fall 2019 Semester:
+
+- ECON 321: The Global Trading System (Undergrad)
+- MGST 611: Managerial Economics (EMBA)
+
 Winter 2019 Semester:
 
 - ECON 359: Intermediate Macroeconomics (Undergrad)
 - ECON 621: Graduate International trade (MA/PhD)
 - PPOL 615: Public Finance (MPP)
-
-A full list of courses is available [here](https://econ.ucalgary.ca/courses)
