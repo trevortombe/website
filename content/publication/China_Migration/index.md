@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "files/hao_et_al_2020.pdf"
+url_pdf = "https://www.economics.utoronto.ca/public/workingPapers/tecipa-659.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
