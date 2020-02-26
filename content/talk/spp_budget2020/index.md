@@ -16,7 +16,7 @@ abstract = "Last fall, the UCP tabled one of the most significant provincial bud
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Analysing the UCP's 2nd provincial budget"
+event = "The School of Public Policy"
 event_url = "https://www.policyschool.ca/events/is-it-too-early-for-a-report-card-on-ucp-performance-analysing-the-ucps-2nd-provincial-budget/"
 
 # Location of event.
