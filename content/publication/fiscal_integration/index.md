@@ -1,6 +1,6 @@
 +++
 title = "Fiscal Integration with Internal Trade: Quantifying the Effects of Equalizing Transfers"
-date = 2018-10-01
+date = 2020-02-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 29 Jan 2020 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://www.trevortombe.com/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fiscal Integration with Internal Trade: Quantifying the Effects of Equalizing Transfers</title>
+      <link>https://www.trevortombe.com/publication/fiscal_integration/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 -0700</pubDate>
+      
+      <guid>https://www.trevortombe.com/publication/fiscal_integration/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Effect of Migration Policy on Growth, Structural Change, and Regional Inequality in China</title>
@@ -36,15 +45,6 @@
       <pubDate>Wed, 18 Dec 2019 00:00:00 -0700</pubDate>
       
       <guid>https://www.trevortombe.com/publication/dna_exporters/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fiscal Integration with Internal Trade: Quantifying the Effects of Equalizing Transfers</title>
-      <link>https://www.trevortombe.com/publication/fiscal_integration/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.trevortombe.com/publication/fiscal_integration/</guid>
       <description></description>
     </item>
     
