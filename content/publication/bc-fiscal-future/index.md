@@ -1,10 +1,10 @@
 +++
-title = "The DNA of New Exporters: Spin-Offs and FDI at the Extensive Margin of Trade"
-date = 2020-04-01
+title = "Financing the Future: Options for Long-Run Debt and Spending Sustainability in British Columbia"
+date = 2020-04-02
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Bernardo Blum","Sebastian Claro","Ignatius Horstmann","Trevor Tombe"]
+authors = ["Trevor Tombe"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["Bernardo Blum","Sebastian Claro","Ignatius Horstmann","Trevor Tombe"
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "American Economic Review: Insights, forthcoming"
-publication_short = "*American Economic Review: Insights, forthcoming*"
+publication = "Working Paper (Available Soon)"
+publication_short = "Working Paper (Available Soon)"
 
 # Abstract and optional shortened version.
-abstract = "Other than that new exporters account for a large part of aggregate export growth, we know little else. We document that aggregate export growth in Chile is driven by only a few new exporters. These exporters are new business entities, operate new plants, and behave much like experienced exporters: they start large and have high survival rates. Moreover, 70% of these new firms are owned by existing businesses and are likely the by-product of either domestic spin-offs or foreign direct investment (24%). By focusing on the average new exporter the existing models of new exporter dynamics miss these key features of export growth."
+abstract = ""
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -34,7 +34,7 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = [""]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "files/BCHT_DNA.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Journal Website", url = "https://www.aeaweb.org/articles?id=10.1257/aeri.20190379&&from=f"}]
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -73,10 +73,9 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Source: Unsplash, @chuttersnap"
+  caption = "Credit: Unsplash, @rawpixel"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-
