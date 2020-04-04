@@ -1,6 +1,6 @@
 +++
 title = "Policy Forum: Expenditures, Efficiency, and Distribution-Advice for Canada's 43rd Parliament"
-date = 2020-01-27
+date = 2020-04-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,11 +18,11 @@ baseurl = "https://www.trevortombe.com"
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Canadian Tax Journal, forthcoming"
-publication_short = "*Canadian Tax Journal, forthcoming*"
+publication = "Canadian Tax Journal"
+publication_short = "*Canadian Tax Journal*"
 
 # Abstract and optional shortened version.
 abstract = "This article examines the expenditure commitments, individually and in aggregate, from the Liberal Party of Canada in the 43rd Canadian federal election in October 2019. The authors articulate which proposed policies are relatively efficient in their design ex ante, which could be adjusted to improve efficiency or distributional goals, and which have limited policy grounding. In general, they argue that government should take a focused approach to expenditures, both with respect to appropriately targeting measures and in limiting the number of simultaneous new initiatives. They conclude by indicating areas of potential cooperation with the other three dominant parties in the 43rd Parliament, with a particular emphasis on possibilities to improve provincial transfer regimes."
@@ -52,7 +52,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.ctf.ca/CTFWEB/Documents/CTJ%202020/Issue%201/Member%20Files/49S_2020CTJ1-PF-Gillezeau-Tombe.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -65,8 +65,8 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
-#url_custom = [{name = "Journal Website", url = #"http://www.ctf.ca/CTFWEB/EN/Publications/CTJ_Contents/2018CTJ4.aspx"},
-#{name="RePEc Link", url="https://ideas.repec.org/a/ctf/journl/v66y2018i4p871-917.html"}]
+url_custom = [{name = "Journal Website", url = "https://www.ctf.ca/CTFWEB/EN/Publications/CTJ_Contents/2020CTJ1.aspx"},
+{name="RePEc Link", url="https://ideas.repec.org/a/ctf/journl/v68y2020i1p49-67.html"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
