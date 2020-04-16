@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>MISC Webinar: COVID-19 crisis and its impact on Canada</title>
+      <link>https://www.trevortombe.com/talk/misc_covid/</link>
+      <pubDate>Thu, 16 Apr 2020 09:00:00 -0600</pubDate>
+      
+      <guid>https://www.trevortombe.com/talk/misc_covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Critical Juncture in Fiscal Federalism? Canada&#39;s Response to COVID-19</title>
       <link>https://www.trevortombe.com/publication/fiscal_covid/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 -0600</pubDate>
@@ -150,15 +159,6 @@ Main Floor Event Centre
       <pubDate>Tue, 19 Nov 2019 09:00:00 -0700</pubDate>
       
       <guid>https://www.trevortombe.com/talk/ctf_dec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Carleton University Seminar</title>
-      <link>https://www.trevortombe.com/talk/carleton_oct2019/</link>
-      <pubDate>Wed, 16 Oct 2019 09:00:00 -0600</pubDate>
-      
-      <guid>https://www.trevortombe.com/talk/carleton_oct2019/</guid>
       <description></description>
     </item>
     
