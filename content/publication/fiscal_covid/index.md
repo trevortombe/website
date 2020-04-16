@@ -1,6 +1,6 @@
 +++
 title = "A Critical Juncture in Fiscal Federalism? Canada's Response to COVID-19"
-date = 2020-04-14
+date = 2020-04-15
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,11 +18,11 @@ authors = ["Daniel Beland" , "Andre Lecours" , "Mireille Paquet" , "Trevor Tombe
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Canadian Journal of Political Science, conditionally accepted"
-publication_short = "*Canadian Journal of Political Science, conditionally accepted*"
+publication = "Canadian Journal of Political Science, forthcoming"
+publication_short = "*Canadian Journal of Political Science, forthcoming*"
 
 # Abstract and optional shortened version.
-abstract = "The COVID-19 crisis could trigger a critical juncture for several institutional arrangements in Canada, potentially leading to notable changes in fiscal federalism. This research note combines insight from historical institutionalism with recent economic and fiscal projections to explore avenues for reform in response to the COVID-19 crisis. Given the magnitude of the crisis, provincial governments may be unable to absorb the fiscal costs on their own. But vast differences in fiscal and economic circumstances across provinces makes federal arrangements difficult to design. We argue that intergovernmental power dynamics and the principle of provincial autonomy are particularly important considerations in thinking about fiscal federalism post COVID-19."
+abstract = "The COVID-19 crisis could trigger a critical juncture for several institutional arrangements in Canada, potentially leading to notable changes in fiscal federalism. This research note combines insights from historical institutionalism with recent economic and fiscal projections to explore avenues for reform in response to the COVID-19 crisis. Given the magnitude of the crisis, provincial governments may be unable to absorb the fiscal costs on their own. But vast differences in fiscal and economic circumstances across provinces makes federal arrangements difficult to design. We argue that intergovernmental power dynamics and the principle of provincial autonomy are particularly important considerations in thinking about fiscal federalism post COVID-19."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/beland_et_al_2020.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
