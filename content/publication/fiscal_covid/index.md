@@ -15,11 +15,11 @@ authors = ["Daniel Beland" , "Andre Lecours" , "Mireille Paquet" , "Trevor Tombe
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Canadian Journal of Political Science, forthcoming"
-publication_short = "*Canadian Journal of Political Science, forthcoming*"
+publication = "Canadian Journal of Political Science"
+publication_short = "*Canadian Journal of Political Science*"
 
 # Abstract and optional shortened version.
 abstract = "The COVID-19 crisis could trigger a critical juncture for several institutional arrangements in Canada, potentially leading to notable changes in fiscal federalism. This research note combines insights from historical institutionalism with recent economic and fiscal projections to explore avenues for reform in response to the COVID-19 crisis. Given the magnitude of the crisis, provincial governments may be unable to absorb the fiscal costs on their own. But vast differences in fiscal and economic circumstances across provinces makes federal arrangements difficult to design. We argue that intergovernmental power dynamics and the principle of provincial autonomy are particularly important considerations in thinking about fiscal federalism post COVID-19."
@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "files/beland_et_al_2020.pdf"
+url_pdf = "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E4F8184DACB186C41C1E8839A7A89BB6/S0008423920000323a.pdf/critical_juncture_in_fiscal_federalism_canadas_response_to_covid19.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Journal Website", url = "https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/critical-juncture-in-fiscal-federalism-canadas-response-to-covid19/E4F8184DACB186C41C1E8839A7A89BB6"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
