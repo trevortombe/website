@@ -48,7 +48,7 @@ slides = ""
 # Links (optional).
 url_pdf = "files/beland_et_al_2020.pdf"
 url_slides = ""
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=luuvaa8ZZwY&feature=youtu.be&t=1"
 url_code = ""
 
 # Does the content use math formatting?
