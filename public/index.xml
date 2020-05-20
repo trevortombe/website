@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Economic diversification - model, myth or mischief?</title>
+      <link>https://www.trevortombe.com/talk/spp_webinar/</link>
+      <pubDate>Wed, 20 May 2020 09:00:00 -0600</pubDate>
+      
+      <guid>https://www.trevortombe.com/talk/spp_webinar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MISC Webinar: COVID-19 crisis and its impact on Canada</title>
       <link>https://www.trevortombe.com/talk/misc_covid/</link>
       <pubDate>Thu, 16 Apr 2020 09:00:00 -0600</pubDate>
@@ -150,15 +159,6 @@ Main Floor Event Centre
       <pubDate>Sat, 21 Dec 2019 09:00:00 -0700</pubDate>
       
       <guid>https://www.trevortombe.com/talk/ubco_mar2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>University of Ottawa Seminar</title>
-      <link>https://www.trevortombe.com/talk/uo_mar2020/</link>
-      <pubDate>Sat, 21 Dec 2019 09:00:00 -0700</pubDate>
-      
-      <guid>https://www.trevortombe.com/talk/uo_mar2020/</guid>
       <description></description>
     </item>
     
