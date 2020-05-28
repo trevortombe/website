@@ -62,7 +62,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "Online Appendix", url = "https://dl.dropboxusercontent.com/u/6874356/missingfood_appendix.pdf"}]
+url_custom = [{name="Journal Website",url="https://www.aeaweb.org/articles?id=10.1257/mac.20130108"}]
 
 # Digital Object Identifier (DOI)
 doi = ""

@@ -15,11 +15,11 @@ authors = ["Bernardo Blum","Sebastian Claro","Ignatius Horstmann","Trevor Tombe"
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "American Economic Review: Insights, forthcoming"
-publication_short = "*American Economic Review: Insights, forthcoming*"
+publication = "American Economic Review: Insights"
+publication_short = "*American Economic Review: Insights*"
 
 # Abstract and optional shortened version.
 abstract = "Other than that new exporters account for a large part of aggregate export growth, we know little else. We document that aggregate export growth in Chile is driven by only a few new exporters. These exporters are new business entities, operate new plants, and behave much like experienced exporters: they start large and have high survival rates. Moreover, 70% of these new firms are owned by existing businesses and are likely the by-product of either domestic spin-offs or foreign direct investment (24%). By focusing on the average new exporter the existing models of new exporter dynamics miss these key features of export growth."
