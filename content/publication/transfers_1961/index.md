@@ -15,11 +15,11 @@ authors = ["Mukesh Khanal","Robert Mansell","Trevor Tombe"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper (Coming Soon)"
-publication_short = "*Working Paper (Coming Soon)*"
+publication = "*SPP Research Paper* 13 (14): June 2020"
+publication_short = "*SPP Research Paper* 13 (14): June 2020"
 
 # Abstract and optional shortened version.
 abstract = "This paper focuses on the regional redistribution of income, employment and population in Canada associated with federal tax, expenditure and transfer policies. Data on net federal fiscal balances by region (the differences between total federal revenues contributed by a region and the total federal expenditures in and transfers to the region) are presented for the period 1961-2018. Through the 10 major fiscal policies producing regional redistribution, over $1.5 trillion (2018$) has been shifted from Alberta, British Columbia and Ontario to the other provinces and territories. The resulting regional redistribution of income, employment and income has been substantial. While it has been consistent with equity and stabilization objectives in most cases, there have been significant exceptions, particularly involving Alberta."
@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.policyschool.ca/wp-content/uploads/2020/06/Federal-Fiscal-Balance-Mansell-Khanal-Tombe.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -73,7 +73,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Credit: Unsplash, @sctgrhm"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
