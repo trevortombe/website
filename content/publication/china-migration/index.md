@@ -64,7 +64,8 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 url_custom = [{name="Online Appendix", url = "https://www.dropbox.com/s/xl5j9ir1igh70tr/20150811_appendix.pdf?dl=0"},
   {name="Ungated", url = "https://www.dropbox.com/s/eh4q366ncy757qg/20150811_manuscript.pdf?dl=0"},
-  {name="VoxChina", url = "http://voxchina.org/show-3-123.html"}]
+  {name="VoxChina", url = "http://voxchina.org/show-3-123.html"},
+  {name="RePEc Link", url = "https://ideas.repec.org/a/aea/aecrev/v109y2019i5p1843-72.html"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
