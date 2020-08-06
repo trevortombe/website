@@ -81,3 +81,8 @@ math = false
   focal_point = ""
 +++
 
+**Awarded the Vanderkamp Prize for the best paper in *Canadian Public Policy* in 2019**
+
+https://www.economics.ca/cpages/cpp-vanderkamp
+
+
