@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 27 Oct 2017 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://www.trevortombe.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title>Alberta Economy</title>
       <link>https://www.trevortombe.com/tags/alberta-economy/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 -0600</pubDate>
       
       <guid>https://www.trevortombe.com/tags/alberta-economy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Finance</title>
+      <link>https://www.trevortombe.com/tags/public-finance/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 -0600</pubDate>
+      
+      <guid>https://www.trevortombe.com/tags/public-finance/</guid>
       <description></description>
     </item>
     

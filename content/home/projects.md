@@ -45,6 +45,10 @@ filter_default = 0
   tag = "Alberta Economy"
 
 [[filter]]
+  name = "Public Finance"
+  tag = "Public Finance"
+
+[[filter]]
   name = "Other"
   tag = "Demo"
 

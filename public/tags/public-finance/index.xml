@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Trevor Tombe</title>
-    <link>https://www.trevortombe.com/project/</link>
-    <description>Recent content in Projects on Trevor Tombe</description>
+    <title>Public Finance on Trevor Tombe</title>
+    <link>https://www.trevortombe.com/tags/public-finance/</link>
+    <description>Recent content in Public Finance on Trevor Tombe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sat, 01 Aug 2020 00:00:00 -0600</lastBuildDate>
     
-	<atom:link href="https://www.trevortombe.com/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.trevortombe.com/tags/public-finance/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       
       <guid>https://www.trevortombe.com/project/fon/</guid>
       <description>The main site for the project is at the financesofthenation.ca.</description>
-    </item>
-    
-    <item>
-      <title>Alberta&#39;s Fiscal Future</title>
-      <link>https://www.trevortombe.com/project/ab-fiscal-future/</link>
-      <pubDate>Fri, 27 Oct 2017 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.trevortombe.com/project/ab-fiscal-future/</guid>
-      <description>The Alberta&amp;rsquo;s Fiscal Future (AFF) project is a two-year research/public engagement initiative providing the public and policy makers with in-depth analyses of Alberta&amp;rsquo;s fiscal situation and policy options to address it.
-The main site for the project is at the School of Public Policy.</description>
     </item>
     
     <item>

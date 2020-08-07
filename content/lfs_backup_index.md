@@ -3,7 +3,7 @@
 title = "Alberta Labour Market Indicators"
 
 # Date this page was created.
-date = 2019-02-01T00:00:00
+date = 2021-02-01T00:00:00
 
 # Project summary to display on homepage.
 summary = "Summarizing the latest labour market data for Alberta."
