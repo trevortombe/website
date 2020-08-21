@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Journal Website", url = "https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/critical-juncture-in-fiscal-federalism-canadas-response-to-covid19/E4F8184DACB186C41C1E8839A7A89BB6"}]
+url_custom = [{name = "Journal Website", url = "https://doi.org/10.1017/S0008423920000323"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
