@@ -18,8 +18,8 @@ authors = ["Trevor Tombe"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper"
-publication_short = "Working Paper"
+publication = "Canadian Tax Journal, forthcoming"
+publication_short = "*Canadian Tax Journal, forthcoming*"
 
 # Abstract and optional shortened version.
 abstract = "As one of the most decentralized federations in the world, the sustainability of Canada's public debt depends on the fiscal health of its provinces. Years of steadily rising provincial debt, a severe economic shock from COVID-19, and mounting healthcare costs from aging populations all create pressures. This paper explores how large these long-term fiscal challenges are, what they depend on, and how provinces differ. It also proposes policy options available to both provincial and federal governments, with a focus on reforms to federal transfers. To accomplish this, it describes a simple yet powerful approach to quantify long-run fiscal gaps that builds on the literature but clarifies and simplifies some common results. It combines this flexible and easily computable model with readily available and regularly updated data to construct a projection of government finances. I find that while the federal government is solidly sustainable, despite a large debt increase due to COVID-19, most provincial governments are not. Modest reductions in health spending growth combined with increases in revenue growth, however, are sufficient to overcome this challenge in all but the oil-producing provinces. Of course, our public finances will be buffeted by currently unknowable future developments, both positive and negative, so the path of future debt cannot be known with certainty. This analysis is nonetheless valuable. It shows we have the data and the tools to measure and manage our long-term fiscal challenges today."
