@@ -61,7 +61,8 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Interactive Tool", url = "https://financesofthenation.ca/fiscal-gap-simulator/"}]
+url_custom = [{name = "Interactive Tool", url = "https://financesofthenation.ca/fiscal-gap-simulator/"},
+{name="FoN Blog Post", url="https://financesofthenation.ca/2020/09/17/government-debt-sustainability-in-canadas-post-covid-future/"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -73,7 +74,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Credit: Unsplash, @rawpixel"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
