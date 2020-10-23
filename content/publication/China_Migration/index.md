@@ -62,7 +62,8 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "Journal Website", url = "https://doi.org/10.1016/j.jmoneco.2020.03.003"}]
+url_custom = [{name = "Journal Website", url = "https://doi.org/10.1016/j.jmoneco.2020.03.003"},
+{name="RePEc",url="https://ideas.repec.org/a/eee/moneco/v113y2020icp112-134.html"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
