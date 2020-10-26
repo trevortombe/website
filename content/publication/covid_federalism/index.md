@@ -21,7 +21,7 @@ baseurl = "https://www.trevortombe.com"
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "Forum of Federations (Available Soon)"
+publication = "Forum of Federations"
 publication_short = "*Forum of Federations*"
 
 # Abstract and optional shortened version.
@@ -52,7 +52,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://www.forumfed.org/wp-content/uploads/2020/10/OPS48.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -65,7 +65,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
-#url_custom = []
+url_custom = [{name="Website Link" , url="http://www.forumfed.org/2020/10/hot-off-the-press-occasional-paper-48-the-covid-19-crisis-and-canadian-federalism-by-andre-lecours-daniel-beland-nikola-brassard-dion-trevor-tombe-jennifer-wallner/"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
