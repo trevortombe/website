@@ -11,6 +11,41 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Book Review: The Art of Sharing by Mary Janigan</title>
+      <link>https://www.trevortombe.com/publication/art_sharing/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 -0700</pubDate>
+      
+      <guid>https://www.trevortombe.com/publication/art_sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alberta Labour Market Indicators</title>
+      <link>https://www.trevortombe.com/lfs_backup_index/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 -0700</pubDate>
+      
+      <guid>https://www.trevortombe.com/lfs_backup_index/</guid>
+      <description>
+
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;p&gt;This is a work in progress.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;labour-force-survey&#34;&gt;Labour Force Survey&lt;/h2&gt;
+
+&lt;p&gt;Each month Statistics Canada releases their &lt;a href=&#34;https://www.statcan.gc.ca/eng/survey/household/3701&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;Labour Force Survey&lt;/code&gt;&lt;/a&gt;. This is the main source of information on the latest labour market trends throughout Canada.&lt;/p&gt;
+
+&lt;p&gt;A selection of some of the latest data is available &lt;a href=&#34;https://www.trevortombe.com/data/LFS.html&#34;&gt;&lt;code&gt;here&lt;/code&gt;&lt;/a&gt;. Selected statistics for Calgary and Edmonton are &lt;a href=&#34;https://www.trevortombe.com/data/LFS_cma.html&#34;&gt;&lt;code&gt;here&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;survey-of-payroll-employment-and-hours&#34;&gt;Survey of Payroll, Employment and Hours&lt;/h2&gt;
+
+&lt;p&gt;A summary of the latest SEPH data is available &lt;a href=&#34;https://www.trevortombe.com/data/SEPH.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Government Fiscal Sustainability in Canada After COVID-19</title>
       <link>https://www.trevortombe.com/talk/esna_dec2020/</link>
       <pubDate>Wed, 02 Dec 2020 09:00:00 -0700</pubDate>
@@ -152,24 +187,6 @@
 &lt;p&gt;&lt;strong&gt;Please confirm your attendance by Monday, June 1 @ 4 PM.&lt;/strong&gt;
 We will be using the Zoom meeting platform for the webinar. A link to join the meeting will be sent out to all registrants 12-24 hours prior to the webinar via email.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Economic diversification - model, myth or mischief?</title>
-      <link>https://www.trevortombe.com/talk/spp_webinar/</link>
-      <pubDate>Wed, 20 May 2020 09:00:00 -0600</pubDate>
-      
-      <guid>https://www.trevortombe.com/talk/spp_webinar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MISC Webinar: COVID-19 crisis and its impact on Canada</title>
-      <link>https://www.trevortombe.com/talk/misc_covid/</link>
-      <pubDate>Thu, 16 Apr 2020 09:00:00 -0600</pubDate>
-      
-      <guid>https://www.trevortombe.com/talk/misc_covid/</guid>
-      <description></description>
     </item>
     
   </channel>
