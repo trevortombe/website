@@ -15,11 +15,11 @@ authors = ["Trevor Tombe","Jennifer Winter"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Canadian Journal of Economics, forthcoming"
-publication_short = "*Canadian Journal of Economics, forthcoming*"
+publication = "Canadian Journal of Economics, 2021"
+publication_short = "*Canadian Journal of Economics, 2021*"
 
 # Abstract and optional shortened version.
 abstract = "Fiscal transfers between regions exist within many countries. Explicit transfers, such as Canada's equalization program, redistribute funds directly, and countless federal revenue and spending programs do so indirectly. And like capital flows between countries, such transfers interact with trade and affect the distribution of economic activity within and between provinces. Previous research has largely abstracted from trade considerations; we fill this gap. With the aid of a rich quantitative model and detailed data on within-country trade and financial flows, we uncover important effects of fiscal transfers on provincial income, internal trade flows, migration, and national GDP. The effects are large. Transfers lower Alberta's real income by over 8 per cent and its population by over 12 per cent, and increase PEI's real income by 30 per cent and its population by nearly 50 per cent. We further find transfers misallocate labour across provinces and lower Canada's real GDP by over 0.8 per cent -- equivalent to nearly $19 billion per year today. Finally, fiscal transfers spread gains from trade across all regions, even if policy (like the New West Partnership) liberalizes trade only among some."
@@ -49,8 +49,8 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://ideas.repec.org/p/clg/wpaper/2013-28.html"
-url_preprint = ""
+url_pdf = ""
+url_preprint = "https://ideas.repec.org/p/clg/wpaper/2013-28.html"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Journal Article", url = "http://doi.org/10.1111/caje.12491"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
