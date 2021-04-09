@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.ctf.ca/CTFWEB/Documents/CTJ%202020/Issue%204/Public/1083_2020CTJ4-FON.pdf"
+url_pdf = "https://financesofthenation.ca/2021/01/22/provincial-debt-sustainability-in-canada-demographics-federal-transfers-and-covid-19/"
 url_preprint = "files/tombe_CTJ_debt.pdf"
 url_code = ""
 url_dataset = ""

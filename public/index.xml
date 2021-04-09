@@ -11,6 +11,18 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Alberta Economic Conditions Index</title>
+      <link>https://www.trevortombe.com/project/eci/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 -0600</pubDate>
+      
+      <guid>https://www.trevortombe.com/project/eci/</guid>
+      <description>&lt;p&gt;This index compiles monthly data from a variety of sourses to estimate real-time economic conditions in Alberta. It closely follows the Chicago Fed National Activity Index. These estimates will be periodically updated, and typically come with a two to three month lag before all the necessary monthly data is available from Statistics Canada.&lt;/p&gt;
+
+&lt;p&gt;You can download a CSV file of the montly index values &lt;a href=&#34;https://github.com/trevortombe/alberta_eci/raw/master/ECI_Index_Data.csv&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Implications of an Infrastructure Corridor for Alberta&#39;s Economy</title>
       <link>https://www.trevortombe.com/talk/spp_webinar_rail/</link>
       <pubDate>Tue, 16 Mar 2021 09:00:00 -0600</pubDate>
@@ -172,15 +184,6 @@
       <guid>https://www.trevortombe.com/project/fon/</guid>
       <description>&lt;p&gt;The main site for the project is at the &lt;a href=&#34;https://financesofthenation.ca/team/&#34; target=&#34;_blank&#34;&gt;financesofthenation.ca&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>The Effect of Migration Policy on Growth, Structural Change, and Regional Inequality in China</title>
-      <link>https://www.trevortombe.com/publication/china_migration/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.trevortombe.com/publication/china_migration/</guid>
-      <description></description>
     </item>
     
   </channel>
