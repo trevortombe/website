@@ -4,7 +4,7 @@ date = 2021-04-22
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Raynell Lang", "Jamie L. Benham", "Omid Atabati", "Aidan Hollis", 'Trevor Tombe', "Blake Shaffer", "Katharina Kovacs Burns", "Gail MacKean", "Tova Léveillé", "Brandi McCormack", "Hasan Sheikh", "Madison M. Fullerton", "Theresa Tang", "Jean-Christophe Boucher", "Cora Constantinescu", "Mehdi Mourali", "Braden J. Manns", "Deborah A. Marshall", "Jia Hu" , "Robert J. Oxoby"]
+authors = ["Raynell Lang", "Jamie L. Benham", "Omid Atabati", "Aidan Hollis", 'Trevor Tombe', "Blake Shaffer", "Katharina Kovacs Burns", "Gail MacKean", "Tova Leveille", "Brandi McCormack", "Hasan Sheikh", "Madison M. Fullerton", "Theresa Tang", "Jean-Christophe Boucher", "Cora Constantinescu", "Mehdi Mourali", "Braden J. Manns", "Deborah A. Marshall", "Jia Hu" , "Robert J. Oxoby"]
 
 # Publication type.
 # Legend:
