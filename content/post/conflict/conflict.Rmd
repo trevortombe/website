@@ -5,9 +5,11 @@ date: 2021-06-21
 output: html_document
 ---
 
-The [American Economic Association](https://www.aeaweb.org/journals/policies/disclosure-policy) urges its members and other economists to disclose potential conflicts of interest through financial support (whether in monetary or non-monetary forms), paid or unpaid positions as officers, directors, or board members of non-profit or for-profit organizations, and if other interested third parties have financial, ideological, or political stages in the work. This includes "scholarly journals, op-ed pieces, newspaper and magazine columns, radio and television commentaries, as well as in testimony before federal and state/provincial legislative committees and other agencies." My disclosure follows.
+The [American Economic Association](https://www.aeaweb.org/journals/policies/disclosure-policy) urges its members and other economists to disclose potential conflicts of interest through financial support (whether in monetary or non-monetary forms), paid or unpaid positions as officers, directors, or board members of non-profit or for-profit organizations, and if other interested third parties have financial, ideological, or political stages in the work. This includes "scholarly journals, op-ed pieces, newspaper and magazine columns, radio and television commentaries, as well as in testimony before federal and state legislative committees and other agencies." 
 
-**NOTE:** All relevant affiliations and associations are disclosed on my CV and will not be duplicated here.
+My disclosure follows.
+
+**NOTE:** All relevant affiliations and associations are disclosed on [my CV](files/CV.pdf) and will not be duplicated here.
 
 ## Sources of Financial Support
 
@@ -15,15 +17,16 @@ I separately report ongoing financial support from one-time ad-hoc amounts. Acco
 
 **Ongoing Sources**
 
-- University of Calgary: amounts disclosed publicly according to Government of Alberta regulations
-- Canadian Tax Foundation: stipend for services as co-director of *Finances of the Nation*
-- Financial support through various grants from the Social Science and Humanities Research Council (individually listed on my CV) go towards direct research expenses, primarily graduate student funding. No personal financial benefit results from these grants.
+- University of Calgary: amounts disclosed publicly according to Government of Alberta regulations.
+- Canadian Tax Foundation: stipend for services as co-director of *Finances of the Nation*.
+- Financial support through various grants from the Social Sciences and Humanities Research Council (individually listed on my CV)
+  - Funds cover research expenses, primarily graduate student support, and no personal financial benefit results
   
 **Ad-Hoc Sources**
 
-- Yukon Government (2017): member of the financial advisory panel (report public)
-- Government of British Columbia (2020): research contributions to the BC Basic Income Panel (report public)
 - Government of Canada (2021): research and analysis of interprovincial trade costs and policies
+- Government of British Columbia (2020): research contributions to the BC Basic Income Panel (report public)
+- Yukon Government (2017): member of the financial advisory panel (report public)
 
 **Minor Sources**
 
