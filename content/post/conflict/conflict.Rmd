@@ -1,7 +1,6 @@
 ---
 title: "Conflict of Interest Disclosure"
 author: "Trevor Tombe"
-date: 2021-06-21
 output: html_document
 ---
 
@@ -15,21 +14,22 @@ My disclosure follows.
 
 I separately report ongoing financial support from one-time ad-hoc amounts. According to the AEA disclosure policy, authors "should identify each interested party from whom he or she has received significant financial support, summing to at least $10,000 in the past three years, in the form of consultant fees, retainers, grants and the like." I report these below. In addition, for completeness, I report relevant minor sources of financial support.
 
-**Ongoing Sources**
+**Ongoing**
 
 - University of Calgary: amounts disclosed publicly according to Government of Alberta regulations
 - Canadian Tax Foundation: stipend for services as co-director of *Finances of the Nation*
 - Financial support through various grants from the Social Sciences and Humanities Research Council (individually listed on my CV)
   - Funds cover research expenses, primarily graduate student support, and no personal financial benefit results
   
-**Ad-Hoc Sources**
+**Ad-Hoc**
 
-- Government of Canada (2021): research and analysis of interprovincial trade costs and policies
+- Government of Canada (2020): research and analysis of interprovincial trade costs and policies
 - Government of British Columbia (2020): research contributions to the BC Basic Income Panel (report public)
 - Yukon Government (2017): member of the financial advisory panel (report public)
 
-**Minor Sources**
+**Minor**
 
+- Government of Alberta (2020-21): services to the Ministry of Jobs, Economy and Innovation
 - Government of Ontario (2021): research and analysis of interprovincial trade costs and policies
 - Fraser Institute (2016-2021): referee reports and occasional author fees
 - Queen's University Institute on Trade Policy (2020): presentation on interprovincial trade
