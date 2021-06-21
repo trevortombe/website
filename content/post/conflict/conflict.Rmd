@@ -1,7 +1,7 @@
 ---
 title: "Conflict of Interest Disclosure"
 author: "Trevor Tombe"
-date: 2020-06-21
+date: 2021-06-21
 output: html_document
 ---
 
@@ -28,8 +28,9 @@ I separately report ongoing financial support from one-time ad-hoc amounts. Acco
 - Parliamentary Budget Office (2019): delivery one-day course on federal-provincial transfers
 - Government of Alberta (2017): analysis related to large emitter carbon pricing policy design
 - Government of Alberta (2019): review of internal economic analysis of carbon pricing policies
+- Fraser Institute (2016, 2017, 2018, 2019, 2020, 2021): referee reports and occasional author fees
 - Occasional stipends for contributions to *CBC*, *The Hub*, and *Macleans*
-  
+
 ## Additional Disclosures
 
 **Asset Disclosure**
