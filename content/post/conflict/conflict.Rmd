@@ -7,7 +7,7 @@ output: html_document
 
 The [American Economic Association](https://www.aeaweb.org/journals/policies/disclosure-policy) urges its members and other economists to disclose potential conflicts of interest through financial support (whether in monetary or non-monetary forms), paid or unpaid positions as officers, directors, or board members of non-profit or for-profit organizations, and if other interested third parties have financial, ideological, or political stakes in their work.
 
-My disclosure follows, but omits any relevant professional affiliations, associations, and activities disclosed on [my CV](https://www.trevortombe.com/files/CV.pdf).
+My disclosure follows, based on the most recent five years of activity. More detail around my past professional affiliations, associations, and activities are listed on [my CV](https://www.trevortombe.com/files/CV.pdf).
 
 ---
 
@@ -43,6 +43,23 @@ According to the AEA disclosure policy, authors "should identify each interested
 - Government of Alberta (2017): analysis related to large emitter carbon pricing policy design
 - Canadian Economics Association (2016): Harry G. Johnson Prize
 - Occasional stipends for contributions to *CBC*, *The Hub*, *Macleans*, *Alberta Views*
+
+## Affiliations
+
+**Current Professional Associations**
+
+- Professor at the University of Calgary
+- Research Fellow at The School of Public Policy
+- Member of the Canadian Economics Association and the American Economics Association
+- Co-Director, Finances of the Nation, *Canadian Tax Journal*
+- Co-Editor, *Canadian Journal of Economics*
+
+**Past Affiliations and Appointments**
+
+- Board Member, ActiveCITY Calgary (2019-20)
+- Member of the C.D. Howe COVID-19 Crisis Business Continuity and Trade Working Group (2020)
+- Member of the Government of Alberta Market Access Task Force (2018)
+- Member of the Calgary Chamber of Commerce Municipal Election Advisory Team (2017)
 
 ## Additional Disclosures
 
