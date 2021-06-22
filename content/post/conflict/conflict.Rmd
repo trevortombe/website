@@ -7,7 +7,7 @@ output: html_document
 
 The [American Economic Association](https://www.aeaweb.org/journals/policies/disclosure-policy) urges its members and other economists to disclose potential conflicts of interest through financial support (whether in monetary or non-monetary forms), paid or unpaid positions as officers, directors, or board members of non-profit or for-profit organizations, and if other interested third parties have financial, ideological, or political stakes in their work.
 
-My disclosure follows, based on the most recent five years of activity. More detail around my past professional affiliations, associations, and activities are listed on [my CV](https://www.trevortombe.com/files/CV.pdf).
+This is a best efforts disclosure based on the most recent five years of activity. More detail around my past professional affiliations, associations, and activities are listed on [my CV](https://www.trevortombe.com/files/CV.pdf).
 
 ---
 
@@ -17,8 +17,8 @@ According to the AEA disclosure policy, authors "should identify each interested
 
 **Ongoing**
 
-- University of Calgary (primary employer, 2012-Present): amounts disclosed publicly according to Government of Alberta regulations
-- Canadian Tax Foundation: stipend for services as co-director of *Finances of the Nation*
+- University of Calgary (2012-Present): amounts disclosed publicly according to Government of Alberta regulations
+- Canadian Tax Foundation (2020-Present): stipend for services as co-director of *Finances of the Nation*
 - Financial support through various grants from the Social Sciences and Humanities Research Council (individually listed on my CV)
   - Funds cover research expenses, primarily graduate student support, and no personal financial benefit results
 

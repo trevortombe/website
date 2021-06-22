@@ -358,6 +358,11 @@ enableGitInfo = false
   url = "files/CV.pdf"
   weight = 31
 
+[[menu.main]]
+  name = "Disclosure"
+  url = "https://www.trevortombe.com/post/conflict/conflict/"
+  weight = 32
+
 # Search.
 [params.search]
   # Search provider:

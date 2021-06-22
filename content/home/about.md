@@ -39,4 +39,4 @@ Welcome to my website. I'm an Associate Professor of Economics at the University
 
 My CV is available [here](files/CV.pdf)
 
-<!-- My conflict disclosure is [here](https://www.trevortombe.com/post/conflict/conflict/) -->
+My conflict disclosure is [here](https://www.trevortombe.com/post/conflict/conflict/)
