@@ -1,7 +1,7 @@
 ---
 title: "Conflict of Interest Disclosure"
 author: "Trevor Tombe"
-date: 2021-06-21
+date: 2021-06-22
 output: html_document
 ---
 
@@ -51,9 +51,10 @@ According to the AEA disclosure policy, authors "should identify each interested
 
 - Professor at the University of Calgary
 - Research Fellow at The School of Public Policy
-- Member of the Canadian Economics Association and the American Economics Association
 - Co-Director, Finances of the Nation, *Canadian Tax Journal*
 - Co-Editor, *Canadian Journal of Economics*
+- Board Member, The University of Calgary Faculty Association
+- Member of the Canadian Economics Association and the American Economics Association
 
 **Past Affiliations and Appointments**
 
