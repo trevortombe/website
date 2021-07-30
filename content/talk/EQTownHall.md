@@ -65,4 +65,6 @@ math = false
   focal_point = "Right"
 +++
 
+YouTube Link: https://www.youtube.com/channel/UCoC3oZd1Q8-U4NU7a58BX1w 
 
+Podcast Version: https://podcasts.apple.com/ca/podcast/alberta-unbound/id1511810939 
