@@ -11,6 +11,33 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>UC San Diego</title>
+      <link>https://www.trevortombe.com/talk/ucsd2021/</link>
+      <pubDate>Mon, 01 Nov 2021 09:00:00 -0600</pubDate>
+      
+      <guid>https://www.trevortombe.com/talk/ucsd2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University of Victoria</title>
+      <link>https://www.trevortombe.com/talk/uvic2021/</link>
+      <pubDate>Fri, 01 Oct 2021 09:00:00 -0600</pubDate>
+      
+      <guid>https://www.trevortombe.com/talk/uvic2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>York University</title>
+      <link>https://www.trevortombe.com/talk/york2021/</link>
+      <pubDate>Fri, 01 Oct 2021 09:00:00 -0600</pubDate>
+      
+      <guid>https://www.trevortombe.com/talk/york2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>It&#39;s Debatable: Equalization Referendum</title>
       <link>https://www.trevortombe.com/talk/debatable/</link>
       <pubDate>Wed, 29 Sep 2021 08:00:00 -0600</pubDate>
@@ -211,50 +238,6 @@ Diane Gray, President &amp;amp; CEO, CentrePort Canada and Canada West Foundatio
       <pubDate>Tue, 16 Feb 2021 00:00:00 -0700</pubDate>
       
       <guid>https://www.trevortombe.com/publication/ab_corridor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Book Review: The Art of Sharing by Mary Janigan</title>
-      <link>https://www.trevortombe.com/publication/art_sharing/</link>
-      <pubDate>Tue, 09 Feb 2021 00:00:00 -0700</pubDate>
-      
-      <guid>https://www.trevortombe.com/publication/art_sharing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alberta Labour Market Indicators</title>
-      <link>https://www.trevortombe.com/lfs_backup_index/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 -0700</pubDate>
-      
-      <guid>https://www.trevortombe.com/lfs_backup_index/</guid>
-      <description>
-
-&lt;div class=&#34;alert alert-warning&#34;&gt;
-  &lt;p&gt;This is a work in progress.&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-&lt;h2 id=&#34;labour-force-survey&#34;&gt;Labour Force Survey&lt;/h2&gt;
-
-&lt;p&gt;Each month Statistics Canada releases their &lt;a href=&#34;https://www.statcan.gc.ca/eng/survey/household/3701&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;Labour Force Survey&lt;/code&gt;&lt;/a&gt;. This is the main source of information on the latest labour market trends throughout Canada.&lt;/p&gt;
-
-&lt;p&gt;A selection of some of the latest data is available &lt;a href=&#34;https://www.trevortombe.com/data/LFS.html&#34;&gt;&lt;code&gt;here&lt;/code&gt;&lt;/a&gt;. Selected statistics for Calgary and Edmonton are &lt;a href=&#34;https://www.trevortombe.com/data/LFS_cma.html&#34;&gt;&lt;code&gt;here&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;survey-of-payroll-employment-and-hours&#34;&gt;Survey of Payroll, Employment and Hours&lt;/h2&gt;
-
-&lt;p&gt;A summary of the latest SEPH data is available &lt;a href=&#34;https://www.trevortombe.com/data/SEPH.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Financing the Future: Options for Long-Run Debt and Spending Sustainability in British Columbia</title>
-      <link>https://www.trevortombe.com/publication/bc-fiscal-future/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 -0700</pubDate>
-      
-      <guid>https://www.trevortombe.com/publication/bc-fiscal-future/</guid>
       <description></description>
     </item>
     
