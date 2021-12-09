@@ -1,6 +1,6 @@
 +++
 title = "Fiscal Integration with Internal Trade: Quantifying the Effects of Equalizing Transfers"
-date = 2020-02-01
+date = 2021-05-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,8 +18,8 @@ authors = ["Trevor Tombe","Jennifer Winter"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Canadian Journal of Economics, 2021"
-publication_short = "*Canadian Journal of Economics, 2021*"
+publication = "Canadian Journal of Economics 54(2): 522-556, May 2021"
+publication_short = "*Canadian Journal of Economics 54(2): 522-556, May 2021*"
 
 # Abstract and optional shortened version.
 abstract = "Fiscal transfers between regions exist within many countries. Explicit transfers, such as Canada's equalization program, redistribute funds directly. Countless federal revenue and spending programs do so indirectly. Like capital flows between countries, such transfers interact with trade and affect the distribution of economic activity within and between subnational jurisdictions. Previous research has largely abstracted from trade considerations; we fill this gap. With the aid of a rich quantitative model and detailed data on within-country trade and financial flows, we uncover important effects of fiscal transfers on provincial income, migration and national GDP in Canada. The effects are large. Transfers lower Alberta's real income by over 8% and its population by over 12% and increase Prince Edward Island's real income by 30% and its population by 50%. As employment shifts to lower productivity regions, we find transfers shrink Canada's real GDP by 0.8% and income-sensitive transfers do so by as much as 1.2%--equal to $19 to $28 billion today. Finally, fiscal transfers affect the size and distribution of gains from internal trade liberalization and spread gains across all regions, even if policy (like the New West Partnership) liberalizes trade among only some."

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 22 Apr 2021 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 01 May 2021 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://www.trevortombe.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fiscal Integration with Internal Trade: Quantifying the Effects of Equalizing Transfers</title>
+      <link>https://www.trevortombe.com/publication/fiscal_integration/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 -0600</pubDate>
+      
+      <guid>https://www.trevortombe.com/publication/fiscal_integration/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Attitudes, behaviours and barriers to public health measures for COVID-19: a survey to inform public health messaging</title>
@@ -63,15 +72,6 @@
       <pubDate>Wed, 01 Apr 2020 00:00:00 -0600</pubDate>
       
       <guid>https://www.trevortombe.com/publication/dna_exporters/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fiscal Integration with Internal Trade: Quantifying the Effects of Equalizing Transfers</title>
-      <link>https://www.trevortombe.com/publication/fiscal_integration/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 -0700</pubDate>
-      
-      <guid>https://www.trevortombe.com/publication/fiscal_integration/</guid>
       <description></description>
     </item>
     
