@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Book Review: Who Pays for Canada? Edited by E.A. Heaman and David Tough</title>
+      <link>https://www.trevortombe.com/publication/who_pays/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 -0700</pubDate>
+      
+      <guid>https://www.trevortombe.com/publication/who_pays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Interprovincial Trade: The real barrier to post-COVID recovery?</title>
       <link>https://www.trevortombe.com/talk/spp_trade2021/</link>
       <pubDate>Tue, 02 Nov 2021 09:00:00 -0600</pubDate>
@@ -239,15 +248,6 @@ Diane Gray, President &amp;amp; CEO, CentrePort Canada and Canada West Foundatio
 
 &lt;p&gt;You can download a CSV file of the montly index values &lt;a href=&#34;https://github.com/trevortombe/alberta_eci/raw/master/ECI_Index_Data.csv&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Implications of an Infrastructure Corridor for Alberta&#39;s Economy</title>
-      <link>https://www.trevortombe.com/talk/spp_webinar_rail/</link>
-      <pubDate>Tue, 16 Mar 2021 09:00:00 -0600</pubDate>
-      
-      <guid>https://www.trevortombe.com/talk/spp_webinar_rail/</guid>
-      <description></description>
     </item>
     
   </channel>

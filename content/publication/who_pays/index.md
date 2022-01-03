@@ -1,6 +1,6 @@
 +++
 title = "Book Review: Who Pays for Canada? Edited by E.A. Heaman and David Tough"
-date = 2021-03-16
+date = 2021-12-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,11 +15,11 @@ authors = ["Trevor Tombe"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Canadian Historical Review, forthcoming"
-publication_short = "Canadian Historical Review, forthcoming"
+publication = "Canadian Historical Review 102(4), December 2021"
+publication_short = "Canadian Historical Review 102(4), December 2021"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Who Pays for Canada?", url = "https://www.mqup.ca/who-pays-for-canada--products-9780228001249.php"}]
+url_custom = [{name = "Who Pays for Canada?", url = "https://www.mqup.ca/who-pays-for-canada--products-9780228001249.php"}, {name="Journal Website",url="https://utpjournals.press/doi/full/10.3138/chr.102.4.br16"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
