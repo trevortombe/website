@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Book Review: The Art of Sharing by Mary Janigan</title>
+      <link>https://www.trevortombe.com/publication/art_sharing/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 -0700</pubDate>
+      
+      <guid>https://www.trevortombe.com/publication/art_sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Book Review: Who Pays for Canada? Edited by E.A. Heaman and David Tough</title>
       <link>https://www.trevortombe.com/publication/who_pays/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 -0700</pubDate>
@@ -236,18 +245,6 @@ Diane Gray, President &amp;amp; CEO, CentrePort Canada and Canada West Foundatio
       
       <guid>https://www.trevortombe.com/publication/covid_attitudes/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Alberta Economic Conditions Index</title>
-      <link>https://www.trevortombe.com/project/eci/</link>
-      <pubDate>Fri, 09 Apr 2021 00:00:00 -0600</pubDate>
-      
-      <guid>https://www.trevortombe.com/project/eci/</guid>
-      <description>&lt;p&gt;This index compiles monthly data from a variety of sourses to estimate real-time economic conditions in Alberta. It closely follows the Chicago Fed National Activity Index. These estimates will be periodically updated, and typically come with a two to three month lag before all the necessary monthly data is available from Statistics Canada.&lt;/p&gt;
-
-&lt;p&gt;You can download a CSV file of the montly index values &lt;a href=&#34;https://github.com/trevortombe/alberta_eci/raw/master/ECI_Index_Data.csv&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

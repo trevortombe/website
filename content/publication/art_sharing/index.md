@@ -1,6 +1,6 @@
 +++
 title = "Book Review: The Art of Sharing by Mary Janigan"
-date = 2021-02-09
+date = 2022-01-31
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,8 +18,8 @@ authors = ["Trevor Tombe"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Essays in Economic and Business History, forthcoming"
-publication_short = "Essays in Economic and Business History, forthcoming"
+publication = "Essays in Economic and Business History 39, 246-247"
+publication_short = "Essays in Economic and Business History 39, 246-247"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/tombe_eebh_2021.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "The Art of Sharing", url = "https://www.chapters.indigo.ca/en-ca/books/the-art-of-sharing-the/9780228002109-item.html"}]
+url_custom = [{name = "The Art of Sharing", url = "https://www.chapters.indigo.ca/en-ca/books/the-art-of-sharing-the/9780228002109-item.html"},{name="Journal",url="https://www.ebhsoc.org/journal/index.php/ebhs/issue/view/20"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
