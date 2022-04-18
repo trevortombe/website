@@ -1,10 +1,10 @@
 +++
-title = "The Federal Equalization Program: An Untold and Misunderstood Canadian Success"
-date = 2020-08-02
+title = "The Federal Equalization Program as a Controversial and Contested Policy Success"
+date = 2022-04-18
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Beland","Andre Lecours","Trevor Tombe"]
+authors = ["Daniel Béland","André Lecours","Trevor Tombe"]
 
 # Publication type.
 # Legend:
@@ -18,8 +18,8 @@ authors = ["Daniel Beland","Andre Lecours","Trevor Tombe"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "Successful Public Policy: Lessons From Canada (in progress)"
-publication_short = "Successful Public Policy: Lessons From Canada (in progress)"
+publication = "Successful Public Policy in Canada, forthcoming"
+publication_short = "Successful Public Policy in Canada, forthcoming"
 
 # Abstract and optional shortened version.
 abstract = ""
