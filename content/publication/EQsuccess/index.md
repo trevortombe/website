@@ -1,10 +1,10 @@
 +++
 title = "The Federal Equalization Program as a Controversial and Contested Policy Success"
-date = 2022-04-18
+date = 2022-07-21
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Béland","André Lecours","Trevor Tombe"]
+authors = ["Daniel Beland","Andre Lecours","Trevor Tombe"]
 
 # Publication type.
 # Legend:
@@ -18,8 +18,8 @@ authors = ["Daniel Béland","André Lecours","Trevor Tombe"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "Successful Public Policy in Canada, forthcoming"
-publication_short = "Successful Public Policy in Canada, forthcoming"
+publication = "*Policy Success in Canada: Cases, Lessons, Challenges*"
+publication_short = "*Policy Success in Canada*"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Open Access PDF", url = "https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780192897046.pdf"},{name = "Hardcopy from OUP", url = "https://global.oup.com/academic/product/policy-success-in-canada-9780192897046?facet_narrowbypubdate_facet=Next%203%20months&lang=en&cc=az"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -80,7 +80,7 @@ math = false
   focal_point = ""
 +++
 
-**Book chapter in progress**
+**Chapter 12 in E. Lindquist, M. Howlett, G. Skogstad, G. Tellier, P. 't Hart. eds. Policy Success in Canada: Cases, Lessons, Challenges. Oxford University Press, 2022.**
 
 Created in 1957, the federal equalization program addresses the issue of horizontal fiscal imbalance and, more specifically, seeks to reduce interprovincial disparities in fiscal capacity. Excluding the three territories, which fall under Territorial Formula Financing, the equalization program allocates payments to the provinces whose fiscal capacity falls under a national average. This means that, in contrasts to the two other large federal transfers, the Canada Health Transfer and the Canada Social Transfer, equalization does not make annual payments to all the provinces. Simultaneously, since the creation of the program, all the provinces have received equalization payments for at least a few years. In 2019-2020, equalization payments to the five recipient  provinces (Manitoba, New Brunswick, Nova Scotia, Prince Edward Island and Quebec) totaled nearly 20 billion dollars. In comparison, that fiscal year, the Canada Health Transfer and the Canada Social Transfer allocated about 40 and 15 billion dollars respectively to provinces and territories.
 
