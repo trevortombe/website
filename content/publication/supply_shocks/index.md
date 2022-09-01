@@ -1,10 +1,10 @@
 +++
 title = "The Twin Supply Shocks to Canada's Post-Pandemic Inflation and Monetary Policy"
-date = 2022-07-01
+date = 2022-09-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Trevor Tombe"]
+authors = ["Yu Chen","Trevor Tombe"]
 
 # Publication type.
 # Legend:
@@ -73,7 +73,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Credit: Unsplash, @rawpixel"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
