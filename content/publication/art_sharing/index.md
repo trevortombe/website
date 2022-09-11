@@ -15,7 +15,7 @@ authors = ["Trevor Tombe"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Essays in Economic and Business History 39, 246-247"

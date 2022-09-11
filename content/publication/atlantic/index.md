@@ -18,8 +18,8 @@ authors = ["Trevor Tombe"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Atlantic Canada Economic Review 3 (1): 1-18, July 2022"
-publication_short = "Atlantic Canada Economic Review 3 (1): 1-18, July 2022"
+publication = "*Atlantic Canada Economic Review* 3 (1): 1-18, July 2022"
+publication_short = "*Atlantic Canada Economic Review* 3 (1): 1-18, July 2022"
 
 # Abstract and optional shortened version.
 abstract = "Canada's provincial governments face significant long-run fiscal challenges. Much of this stems from aging populations, which slows economic growth and increases healthcare spending. While all provinces face this pressure, the scale varies considerably and the outlook for Atlantic Canada may be particularly concerning. After all, the pace of aging is higher in this region - especially so in Newfoundland and Labrador. But even within this region there are important differences between each province's circumstances. This paper explores these pressures by quantifying both the magnitude of each province's fiscal challenge and the potential options available to ensure sustainable public finances. Building on the methodology developed by Tombe (2020), combined with the latest data and projections, I estimate the gap between provincial expenditures and revenues in the coming decades is significant but manageable. I also find a notable difference between Nova Scotia and Prince Edward Island, which have a relatively favourable outlook, and New Brunswick and Newfoundland and Labrador, which do not. Various fiscal reforms, including change to federal transfers and provincial revenue and expenditure policies, are available to governments to address these long-run challenges."

@@ -1,7 +1,7 @@
 +++
-title = "The Twin Supply Shocks to Canada's Post-Pandemic Inflation and Monetary Policy"
-date = 2022-09-01
-draft = true
+title = "The Rise (And Fall?) of Inflation in Canada: A Detailed Analysis of Its Post-Pandemic Experience"
+date = 2022-09-11
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Yu Chen","Trevor Tombe"]
@@ -18,11 +18,11 @@ authors = ["Yu Chen","Trevor Tombe"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper"
-publication_short = "Working Paper"
+publication = "Working Paper, Submitted"
+publication_short = "Working Paper, Submitted"
 
 # Abstract and optional shortened version.
-abstract = "Canada's inflation rate rose from 3.1 percent in June 2021 to 8.1 percent one year later. Monetary policy is consequently tightening. We explore some causes and consequences of these developments. Using detailed price and quantity data, we separately identify demand- from supply-driven inflation. We find two-thirds of Canada's accelerating inflation since Q1 2020 is supply-driven, which complicates monetary policy. Another supply shock --- large increases in bank reserves --- may complicate it further. We estimate that ample reserves and rising interest rates may cause large financial losses for the Bank of Canada. This creates novel reputational and communications challenges for the Bank and highlights underappreciated connections between monetary and fiscal policy. These twin supply shocks --- to consumer products and overnight balances --- are important aspects of Canada's recent inflation and monetary policy experiences."
+abstract = "Canada's inflation rate rose from 3.1 percent in June 2021 to 8.1 percent one year later. What is behind this rapid surge? And will higher interest rates ease the pressure? We explore these questions with a detailed analysis of recently rising inflation. We find a few items dominate, especially energy and items sensitive to oil prices. To separate demand- from supply-driven inflation, we use detailed household expenditure data and find rising inflation is primarily the latter. We also find items with normally transitory price changes or those highly sensitive to interest rates also account for nearly all of inflation's rise. While much uncertainty remains, time and tighter monetary policy may likely help decrease inflation."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -49,10 +49,10 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "files/chen_tombe_2022.pdf"
-url_preprint = ""
+url_pdf = "f"
+url_preprint = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4215492"
 url_code = ""
-url_dataset = ""
+url_dataset = "https://github.com/trevortombe/inflation"
 url_project = ""
 url_slides = ""
 url_video = ""

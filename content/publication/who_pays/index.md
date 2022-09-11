@@ -18,8 +18,8 @@ authors = ["Trevor Tombe"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Canadian Historical Review 102(4), December 2021"
-publication_short = "Canadian Historical Review 102(4), December 2021"
+publication = "*Canadian Historical Review* 102(4), December 2021"
+publication_short = "*Canadian Historical Review* 102(4), December 2021"
 
 # Abstract and optional shortened version.
 abstract = ""
