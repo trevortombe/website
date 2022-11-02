@@ -1,7 +1,7 @@
 ---
 title: "Conflict of Interest Disclosure"
 author: "Trevor Tombe"
-date: 2021-06-22
+date: 2022-11-01
 output: html_document
 ---
 
@@ -32,6 +32,7 @@ According to the AEA disclosure policy, authors "should identify each interested
 **Minor (Past Five Years)**
 
 - McGraw Hill Education (2022): textbook revisions and data updates
+- Government of Canada (2022-23): advisory services on internal trade policies
 - Government of Alberta (2020-21): services to the Ministry of Jobs, Economy and Innovation
 - Government of Ontario (2021): research and analysis of interprovincial trade costs and policies
 - Queen's University Institute on Trade Policy (2020): presentation on interprovincial trade
