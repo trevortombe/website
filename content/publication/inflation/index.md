@@ -1,6 +1,6 @@
 +++
 title = "The Rise (And Fall?) of Inflation in Canada: A Detailed Analysis of Its Post-Pandemic Experience"
-date = 2022-09-11
+date = 2023-01-23
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,14 +15,14 @@ authors = ["Yu Chen","Trevor Tombe"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper, Submitted"
-publication_short = "Working Paper, Submitted"
+publication = "*Canadian Public Policy, forthcoming*"
+publication_short = "*Canadian Public Policy, forthcoming*"
 
 # Abstract and optional shortened version.
-abstract = "Canada's inflation rate rose from 3.1 percent in June 2021 to 8.1 percent one year later. What is behind this rapid surge? And will higher interest rates ease the pressure? We explore these questions with a detailed analysis of recently rising inflation. We find a few items dominate, especially energy and items sensitive to oil prices. To separate demand- from supply-driven inflation, we use detailed household expenditure data and find rising inflation is primarily the latter. We also find items with normally transitory price changes or those highly sensitive to interest rates also account for nearly all of inflation's rise. While much uncertainty remains, time and tighter monetary policy may likely help decrease inflation."
+abstract = "Canada's inflation rate rose to generational highs in 2022. We explore this rapid surge. Using new methods and detailed household consumption data, we separately identify demand- and supply-driven price increases. We find the latter accounts for most of inflation's rise-especially among energy-intensive and highly traded items. In addition, we find items with normally transitory price changes or those highly sensitive to interest rates account for nearly all the increase. Our work sheds important new light on recent inflation trends and illustrates new empirical methods that can add value to inflation monitoring efforts in Canada."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -49,10 +49,10 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "f"
-url_preprint = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4215492"
-url_code = ""
-url_dataset = "https://github.com/trevortombe/inflation"
+url_pdf = "https://github.com/trevortombe/inflation/raw/main/ChenTombeReplication/Chen_and_Tombe_2023.pdf"
+url_preprint = ""
+url_code = "https://github.com/trevortombe/inflation/blob/main/ChenTombeReplication/ReplicationClean.R"
+url_dataset = "https://github.com/trevortombe/inflation/tree/main/ChenTombeReplication"
 url_project = ""
 url_slides = ""
 url_video = ""
