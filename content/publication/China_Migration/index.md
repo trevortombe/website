@@ -26,7 +26,7 @@ abstract = "Between 2000 and 2015, China's aggregate income quadrupled, its prov
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
