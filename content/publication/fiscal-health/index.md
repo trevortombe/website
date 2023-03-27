@@ -1,10 +1,10 @@
 +++
-title = "The Rise (And Fall?) of Inflation in Canada: A Detailed Analysis of Its Post-Pandemic Experience"
-date = 2023-01-23
+title = "Reforming Canada's federal health-care funding arrangements"
+date = 2023-03-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Yu Chen","Trevor Tombe"]
+authors = ["Daniel Beland","Trevor Tombe"]
 
 # Publication type.
 # Legend:
@@ -15,18 +15,18 @@ authors = ["Yu Chen","Trevor Tombe"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Canadian Public Policy, forthcoming*"
-publication_short = "*Canadian Public Policy, forthcoming*"
+publication = "*Canadian Public Administration* 66 (1): 28-44, March 2023"
+publication_short = "*Canadian Public Administration* 66 (1): 28-44, March 2023"
 
 # Abstract and optional shortened version.
-abstract = "Canada's inflation rate rose to generational highs in 2022. We explore this rapid surge. Using new methods and detailed household consumption data, we separately identify demand- and supply-driven price increases. We find the latter accounts for most of inflation's rise-especially among energy-intensive and highly traded items. In addition, we find items with normally transitory price changes or those highly sensitive to interest rates account for nearly all the increase. Our work sheds important new light on recent inflation trends and illustrates new empirical methods that can add value to inflation monitoring efforts in Canada."
+abstract = "Federal health-care funding has long been a source of policy debate in this country, a situation exacerbated recently by the COVID-19 pandemic and the premiers' calls for a large expansion of the Canada Health Transfer. In this article, we explore four potential pathways policy-makers might consider in order to improve federal health-care funding. These potential pathways should allow policy-makers to consider how to adapt to changing circumstances while addressing citizens' concerns and the demands of provincial/territorial governments. We do not support one or another of these policy pathways. Instead, we explain what they are and what impact they could have."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -49,10 +49,10 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://github.com/trevortombe/inflation/raw/main/ChenTombeReplication/Chen_and_Tombe_2023.pdf"
+url_pdf = ""
 url_preprint = ""
-url_code = "https://github.com/trevortombe/inflation/blob/main/ChenTombeReplication/ReplicationClean.R"
-url_dataset = "https://github.com/trevortombe/inflation/tree/main/ChenTombeReplication"
+url_code = ""
+url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Journal Website", url = "https://www.utpjournals.press/doi/abs/10.3138/cpp.2022-068"}]
+url_custom = [{name = "Journal Website", url = "https://onlinelibrary.wiley.com/doi/full/10.1111/capa.12514"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -73,7 +73,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Credit: Unsplash, @rawpixel"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

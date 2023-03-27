@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Alberta Chamber of Commerce</title>
+      <link>https://www.trevortombe.com/talk/acc_lunch2023/</link>
+      <pubDate>Sun, 26 Mar 2023 09:00:00 -0600</pubDate>
+      
+      <guid>https://www.trevortombe.com/talk/acc_lunch2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reforming Canada&#39;s federal health-care funding arrangements</title>
+      <link>https://www.trevortombe.com/publication/fiscal-health/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 -0700</pubDate>
+      
+      <guid>https://www.trevortombe.com/publication/fiscal-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Rise (And Fall?) of Inflation in Canada: A Detailed Analysis of Its Post-Pandemic Experience</title>
       <link>https://www.trevortombe.com/publication/inflation/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 -0700</pubDate>
@@ -254,24 +272,6 @@
       <pubDate>Wed, 29 Sep 2021 08:00:00 -0600</pubDate>
       
       <guid>https://www.trevortombe.com/talk/debatable/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Equalization 101: What Do You Know and What Do You Need to Know?</title>
-      <link>https://www.trevortombe.com/talk/call/</link>
-      <pubDate>Mon, 13 Sep 2021 08:00:00 -0600</pubDate>
-      
-      <guid>https://www.trevortombe.com/talk/call/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fiscal and Economic Trajectory of Newfoundland and Labrador</title>
-      <link>https://www.trevortombe.com/talk/mun_cabe/</link>
-      <pubDate>Mon, 13 Sep 2021 08:00:00 -0600</pubDate>
-      
-      <guid>https://www.trevortombe.com/talk/mun_cabe/</guid>
       <description></description>
     </item>
     
