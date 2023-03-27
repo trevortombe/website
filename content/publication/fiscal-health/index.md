@@ -15,7 +15,7 @@ authors = ["Daniel Beland","Trevor Tombe"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Canadian Public Administration* 66 (1): 28-44, March 2023"
