@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "", url = ""},{name="", url=""}]
+# url_custom = [{name = "", url = ""}]
 
 # Digital Object Identifier (DOI)
 doi = ""

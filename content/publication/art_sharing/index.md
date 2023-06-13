@@ -18,8 +18,8 @@ authors = ["Trevor Tombe"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Essays in Economic and Business History 39, 246-247"
-publication_short = "Essays in Economic and Business History 39, 246-247"
+publication = "*Essays in Economic and Business History* 39, 246-247"
+publication_short = "*Essays in Economic and Business History* 39, 246-247"
 
 # Abstract and optional shortened version.
 abstract = ""

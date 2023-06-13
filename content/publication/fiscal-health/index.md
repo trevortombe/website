@@ -18,8 +18,8 @@ authors = ["Daniel Beland","Trevor Tombe"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Canadian Public Administration* 66 (1): 28-44, March 2023"
-publication_short = "*Canadian Public Administration* 66 (1): 28-44, March 2023"
+publication = "*Canadian Public Administration* 66 (1): 28-44"
+publication_short = "*Canadian Public Administration* 66 (1): 28-44"
 
 # Abstract and optional shortened version.
 abstract = "Federal health-care funding has long been a source of policy debate in this country, a situation exacerbated recently by the COVID-19 pandemic and the premiers' calls for a large expansion of the Canada Health Transfer. In this article, we explore four potential pathways policy-makers might consider in order to improve federal health-care funding. These potential pathways should allow policy-makers to consider how to adapt to changing circumstances while addressing citizens' concerns and the demands of provincial/territorial governments. We do not support one or another of these policy pathways. Instead, we explain what they are and what impact they could have."

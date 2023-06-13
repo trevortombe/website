@@ -1,5 +1,5 @@
 +++
-title = "El efecto de los shocks energéticos en las economias nacionales (The Effect of Energy Shocks on National Economies)"
+title = "El efecto de los shocks energeticos en las economias nacionales (The Effect of Energy Shocks on National Economies)"
 date = 2023-04-01
 draft = false
 
@@ -53,7 +53,7 @@ url_pdf = "https://www.ieee.es/Galerias/fichero/cuadernos/ENERGEO23/Cap1_Shocks_
 url_preprint = ""
 url_code = ""
 url_dataset = ""
-url_project = "https://www.ieee.es/publicaciones-new/energia-y-geostrategia/2023/ENERGEO2023.html"
+url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
@@ -61,7 +61,8 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "English WP Version", url = "files/tombe_ieee_2023"}]
+url_custom = [{name = "English WP Version", url = "files/tombe_ieee_2023"},
+{name="Full Book",url="https://www.ieee.es/publicaciones-new/energia-y-geostrategia/2023/ENERGEO2023.html"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
