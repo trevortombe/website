@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>The Alberta Pension Advantage? A Quantitative Analysis of a Separate Provincial Plan</title>
+      <link>https://www.trevortombe.com/publication/app/</link>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 -0600</pubDate>
+      
+      <guid>https://www.trevortombe.com/publication/app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>From Bonds to Banknotes: Central Banking and Public Finances in Canada</title>
       <link>https://www.trevortombe.com/publication/bonds_banknotes/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 -0600</pubDate>
@@ -259,24 +268,6 @@
       
       <guid>https://www.trevortombe.com/publication/who_pays/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Interprovincial Trade: The real barrier to post-COVID recovery?</title>
-      <link>https://www.trevortombe.com/talk/spp_trade2021/</link>
-      <pubDate>Tue, 02 Nov 2021 09:00:00 -0600</pubDate>
-      
-      <guid>https://www.trevortombe.com/talk/spp_trade2021/</guid>
-      <description>&lt;p&gt;Panelists:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Dr. Jared Carlberg&lt;/strong&gt;, Faculty of Agricultural and Food Sciences, University of Manitoba&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Dr. Trevor Tombe&lt;/strong&gt;, Research Fellow, The School of Public Policy, University of Calgary&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Krystle Wittevrongel&lt;/strong&gt;, Policy Analyst, Montreal Economic Institute&lt;/p&gt;
-
-&lt;p&gt;Moderator: &lt;strong&gt;Kara Oosterhuis&lt;/strong&gt;, RealAgriculture&lt;/p&gt;
-</description>
     </item>
     
   </channel>
