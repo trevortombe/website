@@ -18,8 +18,8 @@ authors = ["Yu Chen","Trevor Tombe"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Revision Requested, Canadian Journal of Economics"
-publication_short = "Revision Requested, Canadian Journal of Economics"
+publication = "*Canadian Journal of Economics, Revised/Resubmitted*"
+publication_short = "*Canadian Journal of Economics, Revised/Resubmitted*"
 
 # Abstract and optional shortened version.
 abstract = "How efficiently are workers, investment capital, and production distributed across firms in Canada? And how have they varied over time, across regions, and between sectors? To answer these questions, we present novel measures of the degree of resource misallocation over time and space using uniquely detailed firm-level data (T2-LEAP) between 2001 and 2015. We find the dispersion of marginal returns to both capital and labour across firms have increased significantly during this period, suggesting allocative efficiency is deteriorating. Using a rich but tractable multi-sector model of heterogeneous firms, we find this rising misallocation accounts for over three-quarters of the increased productivity gap between Canada and the United States over this period. Specifically, our estimates suggest that increasing misallocation of labour and capital may lower aggregate productivity by 8.5 percent -- equivalent to a real income decline of $200 billion per year."
