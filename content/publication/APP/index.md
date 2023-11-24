@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://dx.doi.org/10.2139/ssrn.4576950"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -61,7 +61,9 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "SSRN Link", url = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4576950"}]
+url_custom = [{name = "SSRN Link", url = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4576950"},
+{name="Public Slides", url="https://www.beautiful.ai/player/-Nk2iALNngj3HQMQt0aW"},
+{name="Academic Slides", url="files/APP_Slides_2023.pdf"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -79,3 +81,5 @@ math = false
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+
