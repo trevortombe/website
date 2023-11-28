@@ -1,6 +1,6 @@
 +++
 title = "From Bonds to Banknotes: Central Banking and Public Finances in Canada"
-date = 2023-06-01
+date = 2023-11-21
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,8 +18,8 @@ authors = ["Trevor Tombe"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Canadian Tax Journal, forthcoming*"
-publication_short = "*Canadian Tax Journal, forthcoming*"
+publication = "*Canadian Tax Journal 71(3): 825-852*"
+publication_short = "*Canadian Tax Journal 71(3): 825-852*"
 
 # Abstract and optional shortened version.
 abstract = "This paper presents a summary of the Bank of Canada's finances from 1935 to the present, highlighting the interplay between the central bank and the federal government's fiscal operations. It explores the historical, political, and economic factors that led to the establishment and subsequent nationalization of the Bank of Canada. It also presents new data and analysis on the central bank's impact on Canadian public finances. By examining the evolution of the Bank of Canada's balance sheet, revenue streams, and expenditures, it underscores the importance of understanding these connections, particularly considering the COVID-19 pandemic and the subsequent implementation of quantitative easing. Understanding the financial position of the Bank of Canada separately from the broader consolidated position of the Government of Canada is valuable. For example, it allows one to construct a broader measure of federal debt service costs that today are materially larger than what is reported in the public accounts. It may also clarify the implications of monetary policy choices on the economic and financial welfare of the nation."
@@ -50,7 +50,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "files/tombe_ctj_2023.pdf"
+url_preprint = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4640343"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "", url = ""}]
+url_custom = [{name = "Journal Website", url = "https://www.ctf.ca/ctfweb/EN/Publications/CTJ_Contents/2023CTJ3.aspx"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
