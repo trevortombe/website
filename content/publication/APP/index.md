@@ -26,7 +26,7 @@ abstract = "A separate Alberta Pension Plan (APP) has gained renewed attention. 
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -50,11 +50,11 @@ tags = []
 
 # Links (optional).
 url_pdf = "https://dx.doi.org/10.2139/ssrn.4576950"
-url_preprint = ""
+url_preprint = "https://www.utpjournals.press/doi/full/10.3138/cpp.2023-044"
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = ""
+url_slides = "files/APP_Slides_2023.pdf"
 url_video = ""
 url_poster = ""
 url_source = ""
@@ -63,7 +63,6 @@ url_source = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 url_custom = [{name = "SSRN Link", url = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4576950"},
 {name="Public Slides", url="https://www.beautiful.ai/player/-Nk2iALNngj3HQMQt0aW"},
-{name="Academic Slides", url="files/APP_Slides_2023.pdf"},
 {name="Supplementary Derivations", url="files/APP_Derivations.pdf"}]
 
 # Digital Object Identifier (DOI)
