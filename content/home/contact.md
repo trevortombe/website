@@ -19,4 +19,4 @@ autolink = true
 #   2: formspree.io
 email_form = 0
 +++
-
+<div style="display:none"><a rel="me" href="https://mastodon.social/@trevortombe">Mastodon</a></div>

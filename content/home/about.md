@@ -10,9 +10,10 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "International Trade",
-    "Macroeconomics and Productivity",
-    "Public Policy"
+    "International trade",
+    "Macroeconomics and productivity",
+    "Fiscal federalism",
+    "Public policy"
   ]
 
 # List your qualifications (such as academic degrees).
