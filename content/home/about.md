@@ -36,7 +36,7 @@ weight = 1
 
 # Biography
 
-Welcome to my website. I'm a Professor of Economics at the University of Calgary and a Research Fellow at The School of Public Policy. I am also co-director of [Finances of the Nation](https://financesofthenation.ca/). My academic research explores a broad range of topics, but focuses mainly on international trade, macroeconomics, and fiscal federalism. In addition to this work, I actively contribute to public policy research and outreach in Alberta and Canada.
+Welcome to my website. I'm a Professor of Economics at the University of Calgary and the Director of Fiscal and Economic Policy at The School of Public Policy. I am also Co-Director of [Finances of the Nation](https://financesofthenation.ca/). My academic research explores a broad range of topics, but focuses mainly on international trade, macroeconomics, fiscal federalism, and public policy. In addition to this work, I actively contribute to public policy research and outreach in Alberta and Canada.
 
 My CV is available [here](files/CV.pdf)
 
