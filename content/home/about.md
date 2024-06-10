@@ -13,7 +13,7 @@ weight = 1
     "International trade",
     "Macroeconomics and productivity",
     "Fiscal federalism",
-    "Public policy"
+    "Public finances"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -36,7 +36,7 @@ weight = 1
 
 # Biography
 
-Welcome to my website. I'm a Professor of Economics at the University of Calgary and the Director of Fiscal and Economic Policy at The School of Public Policy. I am also Co-Director of [Finances of the Nation](https://financesofthenation.ca/). My academic research explores a broad range of topics, but focuses mainly on international trade, macroeconomics, fiscal federalism, and public policy. In addition to this work, I actively contribute to public policy research and outreach in Alberta and Canada.
+Trevor Tombe is a Professor at the University of Calgary's Department of Economics and the Director of Fiscal and Economic Policy at The School of Public Policy. He received his PhD in Economics from the University of Toronto and undergraduate degree in finance from Simon Fraser University. His research explores a broad set of topics, including, international trade, public finances, and fiscal federalism. He has published in top economics journals, is co-author of the textbook Public Finance in Canada, co-author of a new forthcoming textbook Macroeconomics, co-editor of the recent volume Fiscal Federalism in Canada, and is Co-Director of [Finances of the Nation](https://financesofthenation.ca/). In addition to his academic work, he actively advises various governments on a wide range of issues and contributes to policy development and discussions through regular op-eds, articles, and media engagement.
 
 My CV is available [here](files/CV.pdf)
 

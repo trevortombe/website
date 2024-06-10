@@ -25,17 +25,17 @@ According to the AEA disclosure policy, authors "should identify each interested
 **Ad-Hoc (Past Six Years)**
 
 - Government of Canada (2022-24): advisory services on internal trade policies
-- Myers LLP (2022-23): expert advice
-- Macdonald-Laurier Institute (2022): research paper on internal trade
+- Myers LLP (2022-24): expert advice
+- Macdonald-Laurier Institute (2022; 2024): research papers on internal trade
 - Government of Canada (2020): research and analysis of interprovincial trade costs and policies
 - Government of British Columbia (2020): research contributions to the BC Basic Income Panel (report public)
 - Yukon Government (2017): member of the financial advisory panel (report public)
-- Mount Royal University (2023): program review
-- Pearson Canada (2023): textbook revisions and data updates
+- Mount Royal University (2023): undergraduate program review
+- Pearson Canada (2023-24): textbook revisions and data updates
 - C.D. Howe Institute (2020; 2023): research papers
 - Macdonald-Laurier Institute (2023): referee report
-- McGraw Hill Education (2022): textbook revisions and data updates
-- Fraser Institute (2016-2023): referee reports and occasional author fees
+- McGraw Hill Education (2022-24): textbook revisions and data updates
+- Fraser Institute (2016-2024): referee reports and occasional author fees
 - Government of Alberta (2020-21): services to the Ministry of Jobs, Economy and Innovation
 - Government of Ontario (2021): research and analysis of interprovincial trade costs and policies
 - Queen's University Institute on Trade Policy (2020): presentation on interprovincial trade
@@ -44,7 +44,7 @@ According to the AEA disclosure policy, authors "should identify each interested
 - Parliamentary Budget Office (2019): one-day course on federal-provincial transfers
 - Government of Alberta (2019): review of internal economic analysis of carbon pricing policies
 - Pearson Canada (2018): produce educational materials
-- University of Toronto, Munk School of Global Affairs and Public Policy (2018): *Ontario 360* report on climate policy for Ontario
+- University of Toronto, Munk School of Global Affairs and Public Policy (2018): report on climate policy
 - Government of Alberta (2017): analysis related to large emitter carbon pricing policy design
 - Occasional author fees for contributions to *The Hub*, *CBC*, *Macleans*, *Alberta Views*
 
@@ -53,7 +53,7 @@ According to the AEA disclosure policy, authors "should identify each interested
 **Current Professional Associations**
 
 - Professor, University of Calgary
-- Research Fellow, The School of Public Policy
+- Director of Fiscal and Economic Policy, The School of Public Policy
 - Co-Director, Finances of the Nation, *Canadian Tax Journal*
 - Associate Editor, *Economic Inquiry*
 - Board Member, The University of Calgary Faculty Association

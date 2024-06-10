@@ -69,7 +69,7 @@ enableGitInfo = false
   { name = "School of Public Policy", url = "https://www.policyschool.ca" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "headshot.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "headshot.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "ttombe@ucalgary.ca"
@@ -125,7 +125,7 @@ enableGitInfo = false
   description = "Trevor Tombe, University of Calgary."
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = "headshot.png"
+  sharing_image = "headshot.jpg"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
   twitter = "trevortombe"
