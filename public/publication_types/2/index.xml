@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 21 Nov 2023 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://www.trevortombe.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>From Farms to Tables: Quantifying the Effect of Emissions Pricing on Canadian Food Prices</title>
+      <link>https://www.trevortombe.com/publication/ctax_food/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 -0700</pubDate>
+      
+      <guid>https://www.trevortombe.com/publication/ctax_food/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>From Bonds to Banknotes: Central Banking and Public Finances in Canada</title>

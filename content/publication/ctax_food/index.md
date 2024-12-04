@@ -15,11 +15,11 @@ authors = ["Trevor Tombe","Jennifer Winter"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "SSRN Working Paper"
-publication_short = "*SSRN Working Paper*"
+publication = "Canadian Journal of Agricultural Economics, Forthcoming"
+publication_short = "*Canadian Journal of Agricultural Economics*, Forthcoming"
 
 # Abstract and optional shortened version.
 abstract = "We examine the effect of emissions pricing on the cost of Canadian food. We describe emissions pricing policies relevant to the agriculture and food sectors and the differing design details of various provincial systems and the federal Greenhouse Gas Pollution Pricing Act. To quantify the potential effect of such policies, we use a detailed input-output model of Canada's economy to estimate both the direct and indirect cost increases across sectors. We also explore how exemptions and policy design can mitigate what would otherwise be larger effects. In particular, imported inputs, generous exemptions for most direct emissions in primary agriculture, and special provisions for large industrial emitters all dampen the effect. Overall, we find that emissions pricing at $80 per tonne could potentially increase the cost of domestically produced food by approximately 0.8 percent on average. Combined with imported food that is not directly affected by emissions pricing, we find an average effect of approximately 0.5 percent. While we abstract from general equilibrium responses, our analysis suggests emissions pricing in Canada has only a modest effect on food costs."
