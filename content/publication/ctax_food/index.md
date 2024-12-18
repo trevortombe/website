@@ -18,8 +18,8 @@ authors = ["Trevor Tombe","Jennifer Winter"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Canadian Journal of Agricultural Economics, Forthcoming"
-publication_short = "*Canadian Journal of Agricultural Economics*, Forthcoming"
+publication = "Canadian Journal of Agricultural Economics, 2024"
+publication_short = "*Canadian Journal of Agricultural Economics*, 2014"
 
 # Abstract and optional shortened version.
 abstract = "We examine the effect of emissions pricing on the cost of Canadian food. We describe emissions pricing policies relevant to the agriculture and food sectors and the differing design details of various provincial systems and the federal Greenhouse Gas Pollution Pricing Act. To quantify the potential effect of such policies, we use a detailed input-output model of Canada's economy to estimate both the direct and indirect cost increases across sectors. We also explore how exemptions and policy design can mitigate what would otherwise be larger effects. In particular, imported inputs, generous exemptions for most direct emissions in primary agriculture, and special provisions for large industrial emitters all dampen the effect. Overall, we find that emissions pricing at $80 per tonne could potentially increase the cost of domestically produced food by approximately 0.8 percent on average. Combined with imported food that is not directly affected by emissions pricing, we find an average effect of approximately 0.5 percent. While we abstract from general equilibrium responses, our analysis suggests emissions pricing in Canada has only a modest effect on food costs."
@@ -49,8 +49,8 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5024885"
-url_preprint = ""
+url_pdf = ""
+url_preprint = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5024885"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -60,8 +60,8 @@ url_poster = ""
 url_source = ""
 
 # Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+#   Uncomment line below to enable. For multiplelinks, use the form `[{...}, {...}, {...}]`.
+url_custom = [{name = "Journal Article", url = "https://doi.org/10.1111/cjag.12383"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
