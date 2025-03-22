@@ -1,6 +1,6 @@
 +++
 title = "The Aggregate Productivity Effect of Labour and Capital Market Distortions in Canada"
-date = 2020-07-30
+date = 2024-12-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
