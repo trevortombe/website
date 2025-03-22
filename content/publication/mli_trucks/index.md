@@ -1,5 +1,5 @@
 +++
-title = "[23]	Roadblocks ahead: Internal barriers to trade in Canada's truck transportation sector "
+title = "Roadblocks ahead: Internal barriers to trade in Canada's truck transportation sector "
 date = 2024-05-16
 draft = false
 
