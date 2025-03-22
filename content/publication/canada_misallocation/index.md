@@ -18,11 +18,11 @@ authors = ["Yu Chen","Trevor Tombe"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Canadian Journal of Economics, Revised/Resubmitted*"
-publication_short = "*Canadian Journal of Economics, Revised/Resubmitted*"
+publication = "*Canadian Journal of Economics, Forthcoming*"
+publication_short = "*Canadian Journal of Economics, Forthcoming*"
 
 # Abstract and optional shortened version.
-abstract = "How efficiently are workers, investment capital, and production distributed across firms in Canada? And how have they varied over time, across regions, and between sectors? To answer these questions, we present novel measures of the degree of resource misallocation over time and space using uniquely detailed firm-level data (T2-LEAP) between 2001 and 2015. We find the dispersion of marginal returns to both capital and labour across firms have increased significantly during this period, suggesting allocative efficiency is deteriorating. Using a rich but tractable multi-sector model of heterogeneous firms, we find this rising misallocation accounts for over three-quarters of the increased productivity gap between Canada and the United States over this period. Specifically, our estimates suggest that increasing misallocation of labour and capital may lower aggregate productivity by 8.5 percent -- equivalent to a real income decline of $200 billion per year."
+abstract = "How efficiently are workers, investment capital, and production distributed across firms in Canada? And how have they varied over time, across regions, and between sectors? To answer these questions, we present novel measures of the degree of resource misallocation over time and space using uniquely detailed firm-level data (T2-LEAP) between 2001 and 2015. We find the dispersion of marginal returns to both capital and labour across firms have increased significantly during this period, suggesting allocative efficiency is deteriorating. Using a rich but tractable multi-sector model of heterogeneous firms,we find that had the misallocation of labour and capital not worsened over our period of analysis, aggregate Canadian productivity would be significantly higher. Worsening allocations between sectors alone accounts for approximately half of the widening productivity gap between Canada and the United States over this period."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "files/Chen_and_Tombe_2020.pdf"
+url_pdf = "files/Chen_and_Tombe_2024.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

@@ -18,6 +18,8 @@ live_base_url = "https://www.trevortombe.com"
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; 2019"
 
+# Trevor: you're using version 0.53
+# install_hugo(version="0.53"), using the blogdown package
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
