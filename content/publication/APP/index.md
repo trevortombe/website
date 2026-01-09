@@ -18,8 +18,8 @@ authors = ["Trevor Tombe"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Canadian Public Policy*"
-publication_short = "*Canadian Public Policy*"
+publication = "*Canadian Public Policy 50 (1): 1-19*"
+publication_short = "*Canadian Public Policy 50 (1): 1-19*"
 
 # Abstract and optional shortened version.
 abstract = "A separate Alberta Pension Plan (APP) has gained renewed attention. This paper assesses the long-run viability of such a plan, using both a detailed quantitative model and simple, intuitive approaches. I find only modest scope for material changes in benefit levels and contribution rates relative to the current Canada Pension Plan (CPP). Specifically, I estimate an APP minimum contribution rate (the rate that maintains predicted plan assets relative to plan expenses) is 8.2 percent, compared to the CPP's 9.5 percent. I also explore several relevant risks, including future demographic changes and investment risks. I find, for example, that if provincial fertility and migration rates equal the national averages, then approximately 40 percent of Alberta's pension advantage relative to the CPP is eliminated. Finally, I shed new historical light on a unique area of uncertainty concerning the division of CPP assets. Overall, this paper not only provides an updated foundation to evaluate the potential strengths and weaknesses of an APP but also provides methods to understand public pension sustainability more broadly."
